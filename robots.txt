@@ -1,0 +1,17 @@
+User-agent: *
+Allow: /
+
+Disallow: /portfolio
+Disallow: /thankyou
+Disallow: /assets/vendors/*
+Disallow: /cdnjs.cloudflare.com/*
+Disallow: /?*
+Disallow: /elementskit-content/*
+Disallow: /category/*
+Disallow: /author/*
+Disallow: /login
+
+#Block Chatgpt
+User-agent: CCBot
+Disallow: /
+Sitemap: https://cyberxapp.com/sitemap.xml
