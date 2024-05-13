@@ -160,7 +160,7 @@
                             you close your web browser. We use both session and persistent cookies for the purposes set
                             out below:
                         </p>
-                        <b class="text-bold">Necessary/Essential Cookiess</b> <br>
+                        <b class="text-bold">Necessary/Essential Cookies</b> <br>
                         <span>Type: Session Cookies</span><br>
                         <span>Administered by: Us</span>
                         <p><span>Purpose:</span> These cookies are essential to provide you with services available
