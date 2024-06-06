@@ -6,16 +6,14 @@
     <!-- Google tag (gtag.js)  - Google Analytics -->
     <script async src="https://www.googletagmanager.com/gtag/js?id=G-QNPMGVC54N"></script>
     <script async src="https://www.googletagmanager.com/gtag/js?id=UA-305888426-1"></script>
-    <script>
-    window.dataLayer = window.dataLayer || [];
-
-    function gtag() {
-        dataLayer.push(arguments);
-    }
-    gtag('js', new Date());
-    gtag('config', 'G-QNPMGVC54N');
-    gtag('config', 'UA-305888426-1');
-    </script>
+   <!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-221G79H88G"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'G-221G79H88G');
+</script>
     <!-- End Google tag (gtag.js)  - Google Analytics -->
 
     <!-- Google Tag Manager -->
@@ -43,7 +41,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description"
         content="Get best IT services from CyberX! Our outsourced IT services include digital marketing, SEO, web development, and more for efficiency and innovation.">
-    <meta name="google-site-verification" content="my4Lme_vwvpskHNmohgXHFObZRRWRAql27HgPRLVT3o">
+        <meta name="google-site-verification" content="oLTCQtTg25Tk7Oq23HKYgdbLu-fnN3Xbfzvl5SqlmqY" />
 
     <!-- OG Meta Tags -->
     <meta property="og:locale" content="en_US">
