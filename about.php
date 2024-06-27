@@ -121,7 +121,7 @@
                             </div><!-- /.sec-title -->
                             <p class="about-three__right__text">Finding an IT and digital marketing company you can
                                 trust is not easy. At CyberX, our elite quality yet affordable solutions are designed to
-                                help businesses like yours to expand and thrive in the digital world.
+                                help businesses like yours to expand and crystal in the digital world.
 
                                 With over decades of experience serving small, medium and enterprise clients across
                                 industries, we have the expertise and proven track record you seek in a tech service

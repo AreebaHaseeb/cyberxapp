@@ -41,7 +41,7 @@
                                        </li>
                                        <li class="footer-widget__info__item footer-info"> <i class="icon-envelope"
                                                aria-hidden="true"></i> <a
-                                               href="mailto:info@cyberxapp.com">info@cyberxapp.com</a></li>
+                                               href="mailto:info@crystaltechify.com">info@crystaltechify.com</a></li>
                                    </ul><!-- /.list-unstyled -->
                                </div>
                            </div><!-- /.footer-widget__social -->
@@ -126,11 +126,10 @@
        <div class="main-footer__bottom">
            <div class="container">
                <div class="main-footer__bottom__inner">
-                   <p class="main-footer__copyright"> &copy; Copyright <span class="dynamic-year"></span> by cyberX.
+                   <p class="main-footer__copyright"> &copy; Copyright <span class="dynamic-year"></span> by Crystal Techify.
                    </p>
                    <!-- <a class="privacy" href="privacy-policy.php"><span >privacy policy</a></span> -->
                    <span><a href="privacy-policy.php">Privacy Policy</a></span>
-
                </div><!-- /.main-footer__inner -->
            </div><!-- /.container -->
        </div><!-- /.main-footer__bottom -->
@@ -160,7 +159,7 @@
            <ul class="mobile-nav__contact list-unstyled">
                <li>
                    <i class="fa fa-envelope"></i>
-                   <a href="mailto:info@cyberxapp.com">info@cyberxapp.com</a>
+                   <a href="mailto:info@crystaltechify.com">info@crystaltechify.com</a>
                </li>
                <li>
                    <i class="fa fa-phone-alt"></i>

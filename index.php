@@ -169,19 +169,13 @@
                                 <h6 class="sec-title__tagline">About Us</h6><!-- /.sec-title__tagline -->
                             </div>
                             <div class="about-text">
-                                <h2 class="sec-title__title">CyberX – Your One-Stop-Shop for IT Services</h2>
+                                <h2 class="sec-title__title">Crystal Techify - Your Vision, Our Innovation </h2>
                                 <p class="about-one__right__text  wow fadeInUp" data-wow-duration='1500ms'
                                     data-wow-delay='200ms'>
-                                    The IT industry has been booming like never before for the past few decades.
-                                    Expanding your business seems like finding a needle in the haystack in this
-                                    overcrowded market. If you are also struggling to find the <b class="text-bold">
-                                        best IT services in USA </b> to grow your business, you are at the right place.
+                                    Welcome to Crystal Techify - where we believe growth and results are everything. As an IT and digital marketing agency, we help businesses strategize, build, and improve their marketing game ultimately resulting in ROI boost. Our vision is building better business through technology. 
                                 </p>
                                 <p>
-                                    Welcome to Cyber X! We are an <b class="text-bold">IT and digital marketing agency
-                                    </b> that boosts your business growth through technology innovation. We have helped
-                                    businesses with custom solutions for over years. You can upscale your brand revenue
-                                    by partnering with us.
+                                We connect brands better to their audience with our custom marketing services and solutions like SEO, link building, PPC, social media marketing, web development, content writing, graphic design, and the list goes on. We're Here to Help – Contact Us Now!
                                 </p>
                             </div>
                             <a href="about.php" class="about-one__btn cyber-btn cyber-btn--black wow fadeInUp"
@@ -228,9 +222,7 @@
                                 <h3 class="service-card-two__title"> <a href="seo-services.php">Search Engine
                                         Optimization</a> </h3><!-- /.service-card-two__title -->
                                 <p class="service-card-two__text">
-                                    Looking to increase organic traffic? With our <b>expert SEO Services</b> take your
-                                    website to the next level. Enhance your online visibility & generate sales for your
-                                    business with us!
+                                Search Engine Optimization involves optimizing a website's content, structure, and backlinks to improve its visibility and ranking on search engine results pages (SERPs), which ultimately drives organic traffic and enhances the online presence.
                                 </p><!-- /.service-card-two__text -->
                                 <a href="services.php" class=""></a><!-- /.blog-card__link -->
                             </div><!-- /.service-card-two__content -->
@@ -246,10 +238,8 @@
                                 <h3 class="service-card-two__title"> <a
                                         href="custom-software-development-services.php">Custom Software Development</a>
                                 </h3><!-- /.service-card-two__title -->
-                                <p class="service-card-two__text">Trust CyberX to take your brand to the next level with
-                                    <b>custom software development services</b>. Our expert developers design and
-                                    develop custom softwares to enhance your business efficiency and generate more
-                                    leads.
+                                <p class="service-card-two__text">
+                                Custom software development is all about designing, creating, deploying, and maintaining software to meet the custom requirements of individual users, businesses, or companies. Join hands with Crystal Techify for your custom software projects! 
                                 </p><!-- /.service-card-two__text -->
                                 <a href="custom-software-development-services.php" class=""></a>
                                 <!-- /.blog-card__link -->
@@ -265,9 +255,10 @@
                                 </div><!-- /.service-card-two__price -->
                                 <h3 class="service-card-two__title"> <a href="web-development-services.php">Website
                                         Development</a> </h3><!-- /.service-card-two__title -->
-                                <p class="service-card-two__text">We design websites that keep your customers engaged
-                                    and deliver quality user experience. With our <b>web development solutions</b>, you
-                                    can generate more leads and sales.</p><!-- /.service-card-two__text -->
+                                <p class="service-card-two__text">
+                                At Crystal Techify, our web developers create custom, responsive and fully functional websites with latest technologies, including WordPress, React, and other modern frameworks for brands & businesses out there that keeps the audience engaged.
+                                </p>
+                                    <!-- /.service-card-two__text -->
                             </div><!-- /.service-card-two__content -->
 
                         </div><!-- /.service-card-two -->
@@ -281,9 +272,9 @@
                                 <h3 class="service-card-two__title"> <a
                                         href="ecommerce-development-services.php">Ecommerce Development</a> </h3>
                                 <!-- /.service-card-two__title -->
-                                <p class="service-card-two__text">Ecommerce stores bring lots of revenue from customers
-                                    all over the world. If you also want to sell <b>ecommerce products</b> and drive
-                                    conversions for your business, get in touch with us now!</p>
+                                <p class="service-card-two__text">
+                                Ecommerce stores are booming, generating global revenue for businesses. Get Crystal Techify's professional experts help to create your ecommerce store that drives conversions for your business. Get noticed and succeed in online business today.
+                                </p>
                                 <!-- /.service-card-two__text -->
                             </div><!-- /.service-card-two__content -->
 
@@ -297,9 +288,9 @@
                                 </div><!-- /.service-card-two__price -->
                                 <h3 class="service-card-two__title"> <a href="digital-marketing-services.php">Digital
                                         Marketing</a> </h3><!-- /.service-card-two__title -->
-                                <p class="service-card-two__text">Want to promote your brand online for fast leads and
-                                    conversions? We provide professional services from Google Ads to social media for
-                                    standout brand presence and increased revenue.</p><!-- /.service-card-two__text -->
+                                <p class="service-card-two__text">
+                                Want to promote your brand online for fast leads and conversions? Our digital marketing services include SEO, SEM, social media management, PPC, and content creation, ensuring your brand stands out and connects with your audience efficiently.
+                                </p><!-- /.service-card-two__text -->
                             </div><!-- /.service-card-two__content -->
 
                         </div><!-- /.service-card-two -->
@@ -313,12 +304,10 @@
                                 </div><!-- /.service-card-two__price -->
                                 <h3 class="service-card-two__title"> <a href="graphic-designing-services.php">Graphic
                                         Designing</a> </h3><!-- /.service-card-two__title -->
-                                <p class="service-card-two__text">At CyberX, we help brands and companies with our
-                                    professional <b>graphic design and branding services</b>. Our experts design logos,
-                                    product images, ads, websites and even mobile apps to improve their visual identity
-                                    and marketing.</p><!-- /.service-card-two__text -->
+                                <p class="service-card-two__text">
+                                Graphic designing covers creating visual content like logos, branding materials, ads, web graphics, and many more according to the principles of design, typography, color theory, and digital tools to communicate your brand’s messages effectively.
+                                </p><!-- /.service-card-two__text -->
                             </div><!-- /.service-card-two__content -->
-
                         </div>
                         <!-- /.service-card-two -->
                     </div>
@@ -340,22 +329,18 @@
                             <div class="sec-title text-start wow fadeInUp" data-wow-duration='1500ms'
                                 data-wow-delay='200ms'>
                                 <h6 class="sec-title__tagline">Why Choose Us</h6><!-- /.sec-title__tagline -->
-                                <h2 class="sec-title__title">The CyberX Advantage - Why Choose Our Outsourced IT
-                                    Services?</h2><!-- /.sec-title__title -->
+                                <h2 class="sec-title__title">
+                                Why Do Businesses Trust Us for Their Digital Marketing Services? 
+                                </h2>
+                                    <!-- /.sec-title__title -->
                             </div><!-- /.sec-title -->
                             <p class="why-choose-one__text  wow fadeInUp" data-wow-duration='1500ms'
                                 data-wow-delay='200ms'>
-                                With new IT and marketing agencies emerging every day, why should you choose CyberX?
-                                What sets us apart? With cutting-edge expertise across IT infrastructure and online
-                                marketing, CyberX aims to be your one-stop digital transformation partner
-                                <br>
-                                As one of the <b class="text-bold">best IT companies in USA</b>, we have successfully
-                                delivered <b class="text-bold">IT solutions & services</b> for businesses across
-                                different industries.
-                                <br>
-                                Today hundreds of businesses trust us as their digital marketing partner. Our 95% client
-                                retention rate proves we walk the talk when it comes to service quality and delivering
-                                real online impact.
+                                Your growth is our goal. Reason is, you grow - we grow. With our years of industry experience, we know what works and what not, saving you the time and expense of figuring it out yourself. Our experts design marketing and branding strategies simultaneously to keep you informed and engaged about your audience, competitors, and other important insights. 
+                            </p>
+                            <p class="why-choose-one__text  wow fadeInUp" data-wow-duration='1500ms'
+                                data-wow-delay='200ms'>
+                                We bring ideas and suggestions on the board that will make you stand out. As the best IT services provider, we ensure quality services at affordable prices so you can focus on what really matters i.e. making money.  
                             </p>
                             <a href="services.php" class="why-choose-one__btn cyber-btn cyber-btn--black  wow fadeInUp"
                                 data-wow-duration='1500ms' data-wow-delay='200ms'>Discover More</a>
@@ -380,10 +365,8 @@
                             <div class="tabs-content">
                                 <div class="why-choose-one__item fadeInUp animated tab active-tab " id="transparency">
                                     <div class="why-choose-one__item__top">
-                                        <h3 class="why-choose-one__item__top__title">Tech-Driven Solutions</h3>
-                                        <p class="why-choose-one__item__top__text">We craft custom solutions based on
-                                            your unique needs instead of forcing biased or inadequate
-                                            “one-size-fits-all” products.</p>
+                                        <h3 class="why-choose-one__item__top__title">Custom Solutions</h3>
+                                        <p class="why-choose-one__item__top__text">Instead of the "one-size-fits-all" approach, we analyze your business and design custom solutions for your long-term growth.</p>
                                     </div><!-- /.why-choose-one__item__top -->
                                     <div class="why-choose-one__item__thumb">
                                         <img src="assets/images/resources/mob-dev.jpg"
@@ -394,9 +377,9 @@
                                 <div class="why-choose-one__item fadeInUp animated tab" id="team">
                                     <div class="why-choose-one__item__top">
                                         <h3 class="why-choose-one__item__top__title">Affordable Pricing</h3>
-                                        <p class="why-choose-one__item__top__text">Our efficient teams and streamlined
-                                            processes allow us to offer <b class="text-bold">affordable IT services</b>
-                                            without compromising on quality.</p>
+                                        <p class="why-choose-one__item__top__text">
+                                        Our pricing plans are quite affordable as there are no add-ons or set-up fees. You'll find your money worth-invested. 
+                                        </p>
                                     </div><!-- /.why-choose-one__item__top -->
                                     <div class="why-choose-one__item__thumb">
                                         <img src="assets/images/resources/tab-img-1-3.png"
@@ -406,10 +389,8 @@
 
                                 <div class="why-choose-one__item fadeInUp animated tab" id="results">
                                     <div class="why-choose-one__item__top">
-                                        <h3 class="why-choose-one__item__top__title">US Based Support</h3>
-                                        <p class="why-choose-one__item__top__text">Our entire technical workforce and
-                                            account management teams are based in the USA, ensuring responsive and 24/7
-                                            ongoing support.</p>
+                                        <h3 class="why-choose-one__item__top__title">24/7 Customer Support </h3>
+                                        <p class="why-choose-one__item__top__text">We care for our clients and thus we offer 24/7 support so you can reach us for any queries maintaining the highest quality standards. </p>
                                     </div><!-- /.why-choose-one__item__top -->
                                     <div class="why-choose-one__item__thumb">
                                         <img src="assets/images/resources/tab-img-1-1.png"
@@ -431,7 +412,8 @@
             <div class="why-choose-one__shape--two">
                 <!-- <img src="assets/images/shapes/tab-1-2.png" alt> -->
             </div><!-- /.why-choose-one__shape -->
-        </section><!-- /.why-choose-one -->
+        </section>
+        <!-- /.why-choose-one -->
 
         <section class="testimonials-fore">
             <div class="testimonials-fore__bg" style="background-image: url(assets/images/shapes/testi-shape-1-1.png);">
@@ -723,7 +705,7 @@
                                             <!-- <p class="contact-one__info__text">Send Email</p> -->
                                             <!-- /.contact-one__info__text -->
                                             <h4 class="contact-one__info__title"><a
-                                                    href="mailto:info@cyberxapp.com">info@cyberxapp.com</a></h4>
+                                                    href="mailto:info@crystaltechify.com">info@crystaltechify.com</a></h4>
                                             <!-- /.contact-one__info__title -->
                                         </div><!-- /.contact-one__info__content -->
                                     </li>

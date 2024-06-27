@@ -95,7 +95,8 @@
             <div class="container">
                 <div class="banner-content">
                 <h2 class="page-header__title">Digital Marketing Services</h2>
-                <p>Transform Your Online Marketing with Our Digital Marketing Agency </p>
+                <p>Grow Your Client Base With Data-Driven and Targeted Strategies
+                GET MY FREE PROPOSAL</p>
                 </div>
                 
             </div>
@@ -110,10 +111,10 @@
                 <div class="col-md-6">
                     <div class="detail-text mb-120">
                         <p>
-                        Gone are the days when people grow business with traditional marketing! Fast forward to 2024, and the game has changed. Today, your customers are more likely to find you via a Google search or a viral TikTok video than through traditional advertising channels.
+                        Thrive Internet Marketing Agency is a dynamic, versatile and <a href="#" class="link"> full-service digital marketing agency</a>full-service digital marketing agency that doesn’t rely on smoke and mirrors to attract new clients. Instead, Thrive trusts its own search engine optimization (SEO) and marketing skills to drive new customers to our website.
                         </p>
                         <p>
-                        At Crystal Techify, we offer a wide range of digital marketing services to put your brand on the first page of Google. Being a digital marketing agency, we turn the drowning business to all time client conversion making machines.
+                            We’re not a static company. We don’t limit ourselves to specific industries. Thrive has the experience and professionals to build a custom website and use multiple digital marketing services to assist any size company in any industry.
                         </p>
                     </div>   
                     <div class="services-img">
@@ -126,20 +127,20 @@
                     </div> 
                     <div class="detail-text">
                         <p>
-                        Every one out of the three agencies approach the clients with one-size-fit all. But that’s not the way we work with you. Every client has its own requirements and we are here to understand them well and bring the solutions for you. In short, we're your growth partners, tech experts, and trend setters all rolled into one dynamic package.
+                            So many other agencies rely on a one-size-fits-all approach, many times offering you the same strategy and cookie-cutter website as your competitor down the street.
                         </p>
                         <p>
-                        Did you know that the average person spends nearly 7 hours online every day? Whether they're scrolling through Instagram, binge-watching YouTube, or diving into a Google search, your potential customers are out there.
+                            Thrive works with you to produce customized internet marketing services and a plan that aligns with your unique business needs. We become an extension of your team, a partner that understands your market and goals, rather than just an agency that executes strategies blindly.
                         </p>
                         <p>
-                        And guess what? Your competitors are already impressing them with engaging websites, interactive social posts, and targeted ads.
-At Crystal Techify, our goal is to make sure your brand gets noticed among all the online noise. Our digital marketing services put your business where the eyeballs are, ensuring you're not just seen but remembered.
-
+                            Unlike so many other agencies that use glitz and glamor to close sales and then fail to execute, Thrive focuses on client relationships and results. We always deliver substance, not false promises, ensuring we maximize your budget, so you get the most return on investment (ROI).
                         </p>
                         <p>
-                        Contact us today to know how we can help your business and bring the ROI you have been dreaming for a long time!  
+                            Our reviews and testimonials speak volumes. We earn your business every day with month-to-month contracts.
                         </p>
-                        
+                        <p>
+                            Take a look below at the wide variety of digital marketing services Thrive offers. Contact us today to learn more about how we can help your business!
+                        </p>
                     </div>  
                 </div>
             </div>
@@ -210,8 +211,8 @@ At Crystal Techify, our goal is to make sure your brand gets noticed among all t
             <div class="row">
                 <div class="col-md-12">
                     <div class="services-detail-main-heading">
-                        <h2>Our Digital Marketing Services Speak of Their Own</h2>
-                        <p>Connect with Your Audience When They Need You Most</p>
+                        <h2>How Digital Marketing Services Drive Business Growth</h2>
+                        <p>Engage Your Target Customers at the Right Time on the Right Platform</p>
                     </div>
                 </div>
                 <div class="col-md-6">
@@ -222,12 +223,12 @@ At Crystal Techify, our goal is to make sure your brand gets noticed among all t
                 <div class="col-md-6">
                     <div class="detail-text">
                         <p>
-                        In the world of digital marketing, SMARTWORK is as useful as a screen door on a submarine. Unlike traditional marketing where you pay big bucks and hope for results, we believe it's not just about getting traffic; it's about getting the right traffic and converting it into revenue.
+                        Thrive Internet Marketing Agency is a dynamic, versatile and full-service digital marketing agency that doesn’t rely on smoke and mirrors to attract new clients. Instead, Thrive trusts its own search engine optimization (SEO) and marketing skills to drive new customers to our website.
+                        We’re not a static company. We don’t limit ourselves to specific industries. Thrive has the experience and professionals to build a custom website and use multiple digital marketing services to assist any size company in any industry.
                         </p>
                         <p>
-                        We know just one language - talking click-through rates, conversion rates, bounce rates – data that tells you exactly what's working and what's not. We track, analyze, and optimize every campaign, ensuring that every dollar you spend is maximized.
+                        Hiring an internet marketing agency is one of the best ways to reach your prospects while maintaining a robust relationship with your existing clients. As long as your business has a strong digital presence, your customers will always find you.
                         </p>
-                        
                         
                     </div>  
                 </div>
@@ -310,9 +311,7 @@ At Crystal Techify, our goal is to make sure your brand gets noticed among all t
                     </div>   
                         <div class="col-md-12 mt-30">
                             <div class="conversion-bottom text-center">
-                                <p>
-                                By now, you're probably thinking, "Okay, these Crystal folks sound pretty good. But how can I trust them as my business is drowning and I can’t wait any longer! Great question! Here are some of the results, our clients are cherishing with our custom digital marketing services right now:
-                                </p>
+                                <p>Our digital marketing agency follows a systematic approach to ensure all our online marketing efforts deliver profitable results. Leverage Thrive’s internet marketing services today and let us help you boost your customer acquisition and retention rates.</p>
                                 <div class="form-one__control form-one__control--full">
                                         <button type="submit" class="cyber-btn cyber-btn-base ">Lets Talk</button>
                                     </div>
@@ -331,8 +330,8 @@ At Crystal Techify, our goal is to make sure your brand gets noticed among all t
                     <div class="row align-items-end">
                         <div class="col-md-12">
                         <div class="services-detail-main-heading">
-                        <h2>Crystal Techify’s Digital Marketing Services</h2>
-                        <p>Skyrocket Your Brand & Dominate Your Industry with Crystal Techify's Expert Services  </p>
+                        <h2>Thrive’s Digital Marketing Services</h2>
+                        <p>Build Brand Recognition as an Industry Leader and Increase Profitability</p>
                         
                     </div>
                         </div><!-- /.col-md-6 -->
@@ -340,14 +339,17 @@ At Crystal Techify, our goal is to make sure your brand gets noticed among all t
                 </div><!-- /.service-page__top -->
                 <div class="row gutter-y-30">
                     <div class="col-md-6 col-lg-4">
-                        <div class="service-card-two wow  fadeInUp"  data-wow-delay="000ms">
+                        <div class="service-card-two wow  fadeInUp" data-wow-duration="1500ms" data-wow-delay="000ms">
                             <div class="service-card-two__content">
                                 <div class="service-card-two__icon">
-                                <img src="assets/images/icon/digital.png" alt>
+                                    <img src="assets/images/icon/seo.png" alt>
                                 </div><!-- /.service-card-two__price -->
-                                <h3 class="service-card-two__title"> <a href="seo-services.php">Digital Marketing</a> </h3><!-- /.service-card-two__title -->
+                                <h3 class="service-card-two__title"> <a href="seo-services.php">Search Engine
+                                        Optimization</a> </h3><!-- /.service-card-two__title -->
                                 <p class="service-card-two__text">
-                                Want to promote your brand online for fast leads and conversions? Our digital marketing services include SEO, SEM, social media management, PPC, and content creation, ensuring your brand stands out and connects with your audience efficiently.
+                                    Looking to increase organic traffic? With our <b>expert SEO Services</b> take your
+                                    website to the next level. Enhance your online visibility & generate sales for your
+                                    business with us!
                                 </p><!-- /.service-card-two__text -->
                                 <a href="services.php" class=""></a><!-- /.blog-card__link -->
                             </div><!-- /.service-card-two__content -->
@@ -355,7 +357,7 @@ At Crystal Techify, our goal is to make sure your brand gets noticed among all t
                         </div><!-- /.service-card-two -->
                     </div><!-- /.col-md-6 col-lg-4 -->
                     <div class="col-md-6 col-lg-4">
-                        <div class="service-card-two "  data-wow-delay="300ms">
+                        <div class="service-card-two " data-wow-duration="1500ms" data-wow-delay="300ms">
                             <div class="service-card-two__content">
                                 <div class="service-card-two__icon">
                                     <img src="assets/images/icon/cust-dev.png" alt>
@@ -363,8 +365,10 @@ At Crystal Techify, our goal is to make sure your brand gets noticed among all t
                                 <h3 class="service-card-two__title"> <a
                                         href="custom-software-development-services.php">Custom Software Development</a>
                                 </h3><!-- /.service-card-two__title -->
-                                <p class="service-card-two__text">
-                                Custom software development is all about designing, creating, deploying, and maintaining software to meet the custom requirements of individual users, businesses, or companies. Join hands with Crystal Techify for your custom software projects! 
+                                <p class="service-card-two__text">Trust CyberX to take your brand to the next level with
+                                    <b>custom software development services</b>. Our expert developers design and
+                                    develop custom softwares to enhance your business efficiency and generate more
+                                    leads.
                                 </p><!-- /.service-card-two__text -->
                                 <a href="custom-software-development-services.php" class=""></a>
                                 <!-- /.blog-card__link -->
@@ -373,54 +377,54 @@ At Crystal Techify, our goal is to make sure your brand gets noticed among all t
                         </div><!-- /.service-card-two -->
                     </div><!-- /.col-md-6 col-lg-4 -->
                     <div class="col-md-6 col-lg-4">
-                        <div class="service-card-two " >
+                        <div class="service-card-two " data-wow-duration="1500ms" data-wow-delay="500ms">
                             <div class="service-card-two__content">
                                 <div class="service-card-two__icon">
                                     <img src="assets/images/icon/web-dev.png" alt>
                                 </div><!-- /.service-card-two__price -->
                                 <h3 class="service-card-two__title"> <a href="web-development-services.php">Website
                                         Development</a> </h3><!-- /.service-card-two__title -->
-                                <p class="service-card-two__text">
-                                At Crystal Techify, our web developers create custom, responsive and fully functional websites with latest technologies, including WordPress, React, and other modern frameworks for brands & businesses out there that keeps the audience engaged.
-                                </p>
-                                    <!-- /.service-card-two__text -->
+                                <p class="service-card-two__text">We design websites that keep your customers engaged
+                                    and deliver quality user experience. With our <b>web development solutions</b>, you
+                                    can generate more leads and sales.</p><!-- /.service-card-two__text -->
                             </div><!-- /.service-card-two__content -->
 
                         </div><!-- /.service-card-two -->
                     </div>
                     <div class="col-md-6 col-lg-4">
-                        <div class="service-card-two " >
-                            <div class="service-card-two__content text-lg-start">
+                        <div class="service-card-two " data-wow-duration="1500ms" data-wow-delay="500ms">
+                            <div class="service-card-two__content">
                                 <div class="service-card-two__icon">
                                     <img src="assets/images/icon/ecom.png" alt>
                                 </div><!-- /.service-card-two__price -->
                                 <h3 class="service-card-two__title"> <a
                                         href="ecommerce-development-services.php">Ecommerce Development</a> </h3>
                                 <!-- /.service-card-two__title -->
-                                <p class="service-card-two__text">
-                                Ecommerce stores are booming, generating global revenue for businesses. Get Crystal Techify's professional experts help to create your ecommerce store that drives conversions for your business. Get noticed and succeed in online business today.
-                                </p>
+                                <p class="service-card-two__text">Ecommerce stores bring lots of revenue from customers
+                                    all over the world. If you also want to sell <b>ecommerce products</b> and drive
+                                    conversions for your business, get in touch with us now!</p>
                                 <!-- /.service-card-two__text -->
                             </div><!-- /.service-card-two__content -->
 
                         </div><!-- /.service-card-two -->
                     </div>
                     <div class="col-md-6 col-lg-4">
-                        <div class="service-card-two " >
+                        <div class="service-card-two " data-wow-duration="1500ms" data-wow-delay="500ms">
                             <div class="service-card-two__content">
                                 <div class="service-card-two__icon">
-                                    <img src="assets/images/icon/seo.png" alt>
+                                    <img src="assets/images/icon/digital.png" alt>
                                 </div><!-- /.service-card-two__price -->
-                                <h3 class="service-card-two__title"> <a href="digital-marketing-services.php">SEO</a> </h3><!-- /.service-card-two__title -->
-                                <p class="service-card-two__text">
-                                Search Engine Optimization involves optimizing a website's content, structure, and backlinks to improve its visibility and ranking on search engine results pages (SERPs), which ultimately drives organic traffic and enhances the online presence.
-                                </p><!-- /.service-card-two__text -->
+                                <h3 class="service-card-two__title"> <a href="digital-marketing-services.php">Digital
+                                        Marketing</a> </h3><!-- /.service-card-two__title -->
+                                <p class="service-card-two__text">Want to promote your brand online for fast leads and
+                                    conversions? We provide professional services from Google Ads to social media for
+                                    standout brand presence and increased revenue.</p><!-- /.service-card-two__text -->
                             </div><!-- /.service-card-two__content -->
 
                         </div><!-- /.service-card-two -->
                     </div>
                     <div class="col-md-6 col-lg-4">
-                        <div class="service-card-two " >
+                        <div class="service-card-two " data-wow-duration="1500ms" data-wow-delay="500ms">
                             <div class="service-card-two__content">
                                 <div class="service-card-two__icon">
                                     <img src="assets/images/icon/graphic.png" alt>
@@ -428,9 +432,10 @@ At Crystal Techify, our goal is to make sure your brand gets noticed among all t
                                 </div><!-- /.service-card-two__price -->
                                 <h3 class="service-card-two__title"> <a href="graphic-designing-services.php">Graphic
                                         Designing</a> </h3><!-- /.service-card-two__title -->
-                                <p class="service-card-two__text">
-                                Graphic designing covers creating visual content like logos, branding materials, ads, web graphics, and many more according to the principles of design, typography, color theory, and digital tools to communicate your brand’s messages effectively.
-                                </p><!-- /.service-card-two__text -->
+                                <p class="service-card-two__text">At CyberX, we help brands and companies with our
+                                    professional <b>graphic design and branding services</b>. Our experts design logos,
+                                    product images, ads, websites and even mobile apps to improve their visual identity
+                                    and marketing.</p><!-- /.service-card-two__text -->
                             </div><!-- /.service-card-two__content -->
 
                         </div>
@@ -445,6 +450,7 @@ At Crystal Techify, our goal is to make sure your brand gets noticed among all t
                 <!-- /.row -->
             </div><!-- /.container -->
         </section><!-- /.service-page -->
+ <!-- services-section-end -->
 
  <!-- engage section -->
 <section class="engage-section">
@@ -452,8 +458,8 @@ At Crystal Techify, our goal is to make sure your brand gets noticed among all t
     <div class="row">
         <div class="com-md-12">
         <div class="services-detail-main-heading">
-                        <h2>Why Are Digital Marketing Services a Plus for Any Business?</h2>
-                        <p>Take Your Branding to the Next Level with High Return on Investment</p> 
+                        <h2>Why Your Business Should Be Using Digital Marketing Services</h2>
+                        <p>Engage More Clients and Rank High On Search Results</p> 
                     </div>
         </div>
     </div>
@@ -461,10 +467,10 @@ At Crystal Techify, our goal is to make sure your brand gets noticed among all t
         <div class="col-md-6">
          <div class="engage-text">
             <p>
-            In today's fast-paced digital world, standing out from the crowd is not a . Traditional marketing methods just don't cut it anymore. This is where digital marketing services come in, offering a powerful, cost-effective way to boost your brand and hit your business targets.
+            The online marketing industry is growing at an unprecedented rate. According to eMarketer, businesses in the U.S. spend more than $110 billion on digital advertising. With more companies investing their time and resources in online marketing, relying on your old advertising tactics is not enough to win over customers.
             </p>
             <p>
-            Here’s how digital marketing can truly transform your business:
+            Increase your sales volume and build a robust digital foundation with value-driven internet marketing services. Digital marketing helps you:
             </p>
          </div>
         </div>
@@ -479,22 +485,22 @@ At Crystal Techify, our goal is to make sure your brand gets noticed among all t
         <div class="col-md-6">
             <div>
             <ul class="benefits-list">
-            <li><b>Amplify Your Brand:</b> Reach a wider audience and make your brand unforgettable.</li>
-            <li><b>Cost-Effective Strategies:</b> Save money with targeted campaigns that offer great returns.</li>
-            <li><b>Engage Your Customers:</b> Connect with your audience through social media, email, and other online channels.</li>
-            <li><b>Smart Data Use:</b> Use analytics to make smart decisions and refine your marketing efforts.</li>
-            
+            <li>Save time, money and resources</li>
+            <li>Acquire huge ROI</li>
+            <li>Track your campaign results</li>
+            <li>Adjust your strategies based on analytics and data</li>
+            <li>Leverage precise audience targeting</li>
     </ul>
             </div>
         </div>
         <div class="col-md-6">
         <div>
             <ul class="benefits-list">
-            <li><b>Boost Conversion Rates:</b> Turn website visitors into loyal customers with tailored strategies.</li>
-            <li> <b>Precisely:</b>  Deliver your message to the right people at the right time.</li>
-            <li> <b>Real Results:</b> Monitor your campaigns and tweak them on the go.</li>
-            <li><b>Increase Traffic:</b> Drive more visitors to your site with SEO and PPC strategies.</li>
-            <li><b>Long-term Growth:</b> Implement practices that ensure long-term success.</li>
+            <li>Save time, money and resources</li>
+            <li>Acquire huge ROI</li>
+            <li>Track your campaign results</li>
+            <li>Adjust your strategies based on analytics and data</li>
+            <li>Leverage precise audience targeting</li>
     </ul>
             </div>
         </div>
@@ -509,10 +515,10 @@ At Crystal Techify, our goal is to make sure your brand gets noticed among all t
     <div class="col-md-6">
          <div class="engage-text">
             <p>
-            Imagine the impact of having a marketing strategy that not only saves you money but also delivers measurable results. With digital marketing, you can engage your customers in ways that are meaningful and effective. Don’t let outdated methods hold you back. Embrace digital marketing services to elevate your brand, engage more customers, and see real returns on your investment.
+            A study presented by BrightTALK shows that 42 percent of marketing professionals find the lack of quality data their biggest barrier to lead generation. With the help of a trusted internet marketing company, you can gain a holistic view of your customer journey and competition.
             </p>
             <p>
-            Ready to take your business to the next level? Let’s work together to tackle your marketing challenges and achieve success. Partner with us today and watch your business soar!
+            Don’t waste your investment in marketing techniques that do not deliver measurable results. Partner with Thrive Internet Marketing Agency today and establish your market dominance with our targeted digital marketing services.
             </p>
          </div>
         </div>
@@ -526,8 +532,8 @@ At Crystal Techify, our goal is to make sure your brand gets noticed among all t
     <div class="row">
         <div class="col-md-12">
         <div class="services-detail-main-heading">
-                        <h2>Why Choose Crystal Techify as Your Digital Marketing Agency</h2>
-                        <p>We Don't Just Work for You, We Work with You</p> 
+                        <h2>Why Choose Thrive As Your Digital Marketing Agency</h2>
+                        <p>Boost Your Revenue Growth Rate and Achieve Online Success</p> 
         </div>
         </div>
     </div>
@@ -535,10 +541,10 @@ At Crystal Techify, our goal is to make sure your brand gets noticed among all t
     <div class="col-md-6">
          <div class="engage-text">
             <p>
-            At Crystal Techify, we think that a brand should be taught how to fish rather than merely being served the day's catch. Our monthly strategy workshops and masterclasses are your pass to the top of digital marketing, not simply updates. 
+            Thrive Internet Marketing Agency is an award-winning internet marketing company that provides goal-oriented advertising solutions. Our primary focus is to help businesses increase their client retention rate and maximize conversion opportunities.
             </p>
             <p>
-            We deconstruct the algorithms, simplify the language, and explain the "why" behind our "what." What’s the outcome? You're a digital brand with $$$ in the pocket, not simply with a bunch of customers. Some of our edges that make us the top choice in this leading market include:
+            Trust us to give our full commitment to your brand’s digital success. Choose Thrive and gain the following advantages (and so many more digital marketing solutions):
             </p>
          </div>
         </div>
@@ -548,91 +554,114 @@ At Crystal Techify, our goal is to make sure your brand gets noticed among all t
             </div>
         </div>
     </div>
+    <div class="row">
+        <div class="col-md-12">
+
+        </div>
+    </div>
+
 </div>
 </section>
-
-<section class=" mb-60">
+<section class="why-choose-one">
             <div class="container">
+                <div class="row align-items-center">
+                    <div class="col-lg-5">
+                        <div class="why-choose-one__left">
+                            <div class="sec-title text-start " 
+                               >
+                                <h6 class="sec-title__tagline">Why Choose Us</h6><!-- /.sec-title__tagline -->
+                                <h2 class="sec-title__title">The CyberX Advantage - Why Choose Our Outsourced IT
+                                    Services?</h2><!-- /.sec-title__title -->
+                            </div><!-- /.sec-title -->
+                            <p class="why-choose-one__text  " 
+                               >
+                                With new IT and marketing agencies emerging every day, why should you choose CyberX?
+                                What sets us apart? With cutting-edge expertise across IT infrastructure and online
+                                marketing, CyberX aims to be your one-stop digital transformation partner
+                                <br>
+                                As one of the <b class="text-bold">best IT companies in USA</b>, we have successfully
+                                delivered <b class="text-bold">IT solutions & services</b> for businesses across
+                                different industries.
+                                <br>
+                                Today hundreds of businesses trust us as their digital marketing partner. Our 95% client
+                                retention rate proves we walk the talk when it comes to service quality and delivering
+                                real online impact.
+                            </p>
+                            <a href="services.php" class="why-choose-one__btn cyber-btn cyber-btn--black  "
+                                >Discover More</a>
+                            <!-- /.why-choose-one__btn -->
+                        </div><!-- /.why-choose-one__left -->
+                    </div><!-- /.col-lg-5 -->
+                    <div class="col-lg-7">
+                        <div class="why-choose-one__right tabs-box">
+                            <div class="why-choose-one__inner">
+                                <div class="why-choose-one__inner__filter text-center">
+                                    <button data-tab="#transparency"
+                                        class="why-choose-one__inner__btn tab-btn active-btn">Solutions</button>
+                                    <!-- /.why-choose-one__inner__btn -->
+                                    <button data-tab="#team" class="why-choose-one__inner__btn tab-btn">Pricing</button>
+                                    <!-- /.why-choose-one__inner__btn -->
+                                    <button data-tab="#results"
+                                        class="why-choose-one__inner__btn tab-btn">Support</button>
+                                    <!-- /.why-choose-one__inner__btn -->
+                                </div>
 
-                <div class="row gutter-y-30">
-                    <div class="col-md-6 col-lg-4">
-                        <div class=" wow  fadeInUp"  data-wow-delay="000ms">
-                            <div class="faq-content">
-                                <!-- <div class="service-card-two__icon" style="background: none;">
-                                    <img src="assets/images/icon/seo.png" alt>
-                                </div> -->
-                                <!-- /.service-card-two__price -->
-                                <h3 class="service-card-two__title"> 
-                                We are the Leading Partners for Over Years
-                                </h3><!-- /.service-card-two__title -->
-                                <p class="service-card-faq-two__text">
-                                "Crystal" isn't just a cool name we pulled out of a hat. We live and breathe technology. In an industry that evolves faster than you can say "algorithm update," being tech-savvy isn't just nice; it's necessary. We're always one step ahead, whether it's leveraging AI for customer insights or using the latest marketing automation tools to scale your campaigns.
-                                </p><!-- /.service-card-two__text -->
-                                <a href="services.php" class=""></a><!-- /.blog-card__link -->
-                            </div><!-- /.service-card-two__content -->
+                            </div><!-- /.why-choose-one__inner -->
+                            <div class="tabs-content">
+                                <div class="why-choose-one__item fadeInUp animated tab active-tab " id="transparency">
+                                    <div class="why-choose-one__item__top">
+                                        <h3 class="why-choose-one__item__top__title">Tech-Driven Solutions</h3>
+                                        <p class="why-choose-one__item__top__text">We craft custom solutions based on
+                                            your unique needs instead of forcing biased or inadequate
+                                            “one-size-fits-all” products.</p>
+                                    </div><!-- /.why-choose-one__item__top -->
+                                    <div class="why-choose-one__item__thumb">
+                                        <img src="assets/images/resources/mob-dev.jpg"
+                                            alt="why-choose-one__item__image">
+                                    </div><!-- /.why-choose-one__item__bottom -->
+                                </div><!-- /.why-choose-one__item -->
 
-                        </div><!-- /.service-card-two -->
-                    </div><!-- /.col-md-6 col-lg-4 -->
-                    <div class="col-md-6 col-lg-4">
-                        <div class=""  data-wow-delay="300ms">
-                            <div class="faq-content">
-                                <!-- <div class="service-card-two__icon" style="background: none;">
-                                    <img src="assets/images/icon/cust-dev.png" alt>
-                                </div> -->
-                                <!-- /.service-card-two__price -->
-                                <h3 class="service-card-two__title"> 
-                                        We're a Growth Agency, Not Just a Marketing Agency
-                                  
-                                </h3><!-- /.service-card-two__title -->
-                                <p class="service-card-faq-two__text">
-                                Here's the deal: anyone can create a pretty Instagram post or run a PPC campaign. But not everyone can tie those efforts directly to your bottom line. At Crystal Techify, we're obsessed with your growth. We don't just report on vanity metrics like likes or impressions; we show you how our work translates to leads, sales, and ROI. Our success is measured by your success.
-                                </p><!-- /.service-card-two__text -->
-                                <a href="custom-software-development-services.php" class=""></a>
-                                <!-- /.blog-card__link -->
-                            </div><!-- /.service-card-two__content -->
+                                <div class="why-choose-one__item fadeInUp animated tab" id="team">
+                                    <div class="why-choose-one__item__top">
+                                        <h3 class="why-choose-one__item__top__title">Affordable Pricing</h3>
+                                        <p class="why-choose-one__item__top__text">Our efficient teams and streamlined
+                                            processes allow us to offer <b class="text-bold">affordable IT services</b>
+                                            without compromising on quality.</p>
+                                    </div><!-- /.why-choose-one__item__top -->
+                                    <div class="why-choose-one__item__thumb">
+                                        <img src="assets/images/resources/tab-img-1-3.png"
+                                            alt="why-choose-one__item__image">
+                                    </div><!-- /.why-choose-one__item__bottom -->
+                                </div><!-- /.why-choose-one__item -->
 
-                        </div><!-- /.service-card-two -->
-                    </div><!-- /.col-md-6 col-lg-4 -->
-                    <div class="col-md-6 col-lg-4">
-                        <div class="" >
-                            <div class="faq-content">
-                                <!-- <div class="service-card-two__icon" style="background: none;">
-                                    <img src="assets/images/icon/web-dev.png" alt>
-                                </div> -->
-                                <!-- /.service-card-two__price -->
-                                <h3 class="service-card-two__title"> 
-                                Customization is All in Our Hands
-                                   </h3><!-- /.service-card-two__title -->
-                                <p class="service-card-faq-two__text">
-                                We've seen too many agencies offer one-size-fits-all solutions. Newsflash: Your business is unique, and your digital marketing should be too. Whether you're a scrappy startup or a big-league player, we adjust our digital marketing services to fit your goals, budget, and brand personality. No cookie-cutter strategies here!
-                                </p><!-- /.service-card-two__text -->
-                            </div><!-- /.service-card-two__content -->
+                                <div class="why-choose-one__item fadeInUp animated tab" id="results">
+                                    <div class="why-choose-one__item__top">
+                                        <h3 class="why-choose-one__item__top__title">US Based Support</h3>
+                                        <p class="why-choose-one__item__top__text">Our entire technical workforce and
+                                            account management teams are based in the USA, ensuring responsive and 24/7
+                                            ongoing support.</p>
+                                    </div><!-- /.why-choose-one__item__top -->
+                                    <div class="why-choose-one__item__thumb">
+                                        <img src="assets/images/resources/tab-img-1-1.png"
+                                            alt="why-choose-one__item__image">
+                                    </div><!-- /.why-choose-one__item__bottom -->
+                                </div><!-- /.why-choose-one__item -->
+                            </div><!-- /.tabs-content -->
+                            <div class="why-choose-one__right__element cyber-stretch-element-inside-column">
+                                <!-- <img src="assets/images/shapes/why-choose-1-1.png" alt="why-choose-one__right__element"> -->
+                            </div><!-- /.why-choose-one__right__element -->
+                        </div><!-- /.why-choose-one__right -->
 
-                        </div><!-- /.service-card-two -->
-                    </div>
-                    <div class="col-md-6 col-lg-4">
-                        <div class="" >
-                            <div class="faq-content">
-                                <!-- <div class="service-card-two__icon" style="background: none;">
-                                    <img src="assets/images/icon/ecom.png" alt>
-                                </div> -->
-                                <!-- /.service-card-two__price -->
-                                <h3 class="service-card-two__title"> 
-                                        Transparency & Communication</h3>
-                                <!-- /.service-card-two__title -->
-                                <p class="service-card-faq-two__text">
-                                Ever hired an agency only to feel like you're shouting into the void? Not with us. We believe in radical transparency. Regular reports? Check. Strategy sessions where we actually listen to your input? Double-check. A dedicated account manager who knows your business almost as well as you do? Triple-check. With Crystal Techify, you're not just a client; you're a partner.
-                                </p>
-                                <!-- /.service-card-two__text -->
-                            </div><!-- /.service-card-two__content -->
-
-                        </div><!-- /.service-card-two -->
-                    </div>
-                </div>
-                <!-- /.row -->
+                    </div><!-- /.col-lg-7 -->
+                </div><!-- /.row -->
             </div><!-- /.container -->
-        </section><!-- /.service-page -->
-
+            <div class="why-choose-one__shape">
+                <!-- <img src="assets/images/shapes/tab-1-1.png" alt> -->
+            </div><!-- /.why-choose-one__shape -->
+            <div class="why-choose-one__shape--two">
+                <!-- <img src="assets/images/shapes/tab-1-2.png" alt> -->
+            </div><!-- /.why-choose-one__shape -->
+        </section>
 
 <!-- FAQ -->
  <section class="faq-section mb-60">
@@ -741,7 +770,7 @@ Digital marketing includes optimization across search engines (the likes of Goog
                                             <!-- <p class="contact-one__info__text">Send Email</p> -->
                                             <!-- /.contact-one__info__text -->
                                             <h4 class="contact-one__info__title"><a
-                                                    href="mailto:info@crystaltechify.com">info@crystaltechify.com</a></h4>
+                                                    href="mailto:info@cyberxapp.com">info@cyberxapp.com</a></h4>
                                             <!-- /.contact-one__info__title -->
                                         </div><!-- /.contact-one__info__content -->
                                     </li>

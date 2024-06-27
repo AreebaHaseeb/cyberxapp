@@ -5,7 +5,6 @@
 
 (function ($) {
   "use strict";
-
   /*-- Checkout Accoradin --*/
   $(document).ready(function() {
     // Function to check and update classes based on screen size

@@ -220,7 +220,8 @@
                     </div><!-- /.row -->
                 </div><!-- /.contact-one__inner -->
             </div><!-- /.container -->
-        </section><!-- /.contact-one -->
+        </section>
+        <!-- /.contact-one -->
 
 
         <div class="contact-map   wow fadeInUp" data-wow-duration="1500ms">

@@ -161,7 +161,7 @@
                     <div class="col-md-12 col-lg-8">
                         <div class="service-details__content">
                             <div class="service-details__single">
-                                <h2 class="service-details__title wow fadeInUp" data-wow-delay='300ms'>Video Editing
+                                <h2 class="service-details__title wow fadeInUp" >Video Editing
                                     Services at Affordable Price</h2><!-- /.service-details__title -->
                                 <p class="service-details__text wow fadeInUp" data-wow-delay='350ms'>Many small
                                     businesses struggle to create <b class="text-bold">professional video editing
@@ -174,11 +174,11 @@
                                         class="text-bold">2d and 3d video animation services</b> to clients across all
                                     industries.
                                 </p>
-                                <div class="service-details__thumbnail wow fadeInUp" data-wow-delay='300ms'>
+                                <div class="service-details__thumbnail wow fadeInUp" >
                                     <img src="assets/images/resources/video-edit.jpg"
                                         alt="Conversion Rate Optimization">
                                 </div><!-- /.service-details__thumbnail -->
-                                <h2 class="service-details__title wow fadeInUp" data-wow-delay='300ms'>What Makes Us
+                                <h2 class="service-details__title wow fadeInUp" >What Makes Us
                                     Different From Other Outsourced Video Editing Companies?</h2>
                                 <!-- /.service-details__title -->
                                 <p class="service-details__text wow fadeInUp" data-wow-delay='350ms'>We don't just
@@ -197,7 +197,7 @@
                                     <li> <i class="fa fa-check-circle"></i>Motion Typography Videos</li>
                                     <li> <i class="fa fa-check-circle"></i>Green Screen Videos</li>
                                 </ul>
-                                <h2 class="service-details__title wow fadeInUp" data-wow-delay='300ms'>Reach Us Today
+                                <h2 class="service-details__title wow fadeInUp" >Reach Us Today
                                     for Best Video Editing Services in USA!</h2><!-- /.service-details__title -->
                                 <p class="service-details__text wow fadeInUp" data-wow-delay='350ms'>In today's
                                     oversaturated marketplace, brands need truly compelling and strategic visual content

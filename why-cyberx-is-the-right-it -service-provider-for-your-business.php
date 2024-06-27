@@ -157,7 +157,7 @@
                                         approach to creating solutions that not only fulfill but also surpass client
                                         expectations. The company's steadfast commitment to staying ahead of
                                         technological advancements guarantees that its clients are equipped with the
-                                        most advanced tools and strategies to thrive in the fiercely competitive digital
+                                        most advanced tools and strategies to crystal in the fiercely competitive digital
                                         landscape.
                                     </p>
                                 </div>

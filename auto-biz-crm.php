@@ -220,8 +220,6 @@
                     </div>
 
                 </div>
-
-
             </div>
         </section>
         <section class="service-details">

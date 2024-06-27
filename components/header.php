@@ -22,73 +22,105 @@
                             <div class="mega-menu-wrap container-fluid">
                                 <div class="row">
                                     <!-- First column of links -->
-                                    <div class="col-md-3">
-                                        <h4 class="mega-heading">Development</h4>
+                                    <div class="col">
+                                        <h4 class="mega-heading">
+                                            <ul class="">
+                                            <li class="d-flex align-items-center">
+                                             <a href="digital-marketing-services.php">Digital Marketing</a></li>
+                                        </ul>
+                                    </h4>
                                         <ul class="mega-list">
-                                            <li class="d-flex align-items-center"><img
-                                                    src="assets/images/icon/web-dev.png" alt="web"><a
-                                                    href="web-development-services.php">Website Development</a></li>
-                                            <li class="d-flex align-items-center"><img
-                                                    src="assets/images/icon/mob-dev.png" alt="mob"><a
-                                                    href="mobile-app-development-services.php">Mobile App
-                                                    Development</a></li>
-                                            <li class="d-flex align-items-center"><img
-                                                    src="assets/images/icon/cust-dev.png" alt="cus"><a
-                                                    href="custom-software-development-services.php">Custom Software
-                                                    Development</a></li>
-                                            <li class="d-flex align-items-center"><img src="assets/images/icon/ecom.png"
-                                                    alt="ecom"><a href="ecommerce-development-services.php">E-commerce
-                                                    Solution</a></li>
+                                            <li class="d-flex align-items-center">
+                                                <a
+                                                    href="seo-services.php">Search Engine Optimization</a></li>
+                                            <li class="d-flex align-items-center"><a
+                                                    href="seo-services.php">Social Media Management </a></li>
+                                            <li class="d-flex align-items-center">
+                                               <a
+                                                    href="seo-services.php">Search Engine Marketing</a></li>
                                         </ul>
                                     </div>
                                     <!-- Second column of links -->
-                                    <div class="col-md-3">
-                                        <h4 class="mega-heading">Marketing</h4>
+                                    <div class="col">
+                                        <h4 class="mega-heading">
+                                            <ul class="">
+                                            <li class="d-flex align-items-center">
+                                             <a href="web-development-services.php">Web Development</a></li>
+                                        </ul>
+                                    </h4>
                                         <ul class="mega-list">
-                                            <li class="d-flex align-items-center"><img
-                                                    src="assets/images/icon/digital.png" alt="digital"><a
-                                                    href="digital-marketing-services.php">Digital Marketing</a></li>
-                                            <li class="d-flex align-items-center"><img src="assets/images/icon/seo.png"
-                                                    alt="seo"><a href="seo-services.php">Search Engine Optimization
-                                                    (SEO)</a></li>
-                                            <li class="d-flex align-items-center"><img
-                                                    src="assets/images/icon/social-media.png" alt="soc"><a
-                                                    href="social-media-marketing-services.php">Social Media
-                                                    Marketing</a></li>
-                                            <li class="d-flex align-items-center"><img
-                                                    src="assets/images/icon/content.png" alt="cont">
-                                                <a href="content-writing-services.php">Content Writing</a>
+                                            <li class="d-flex align-items-center"><a
+                                                    href="web-development-services.php">Custom Website</a></li>
+                                            <li class="d-flex align-items-center"><a
+                                                    href="mobile-app-development-services.php">Wordpress Website</a></li>
+                                            <li class="d-flex align-items-center"><a
+                                                    href="custom-software-development-services.php">React Website</a></li>
                                         </ul>
                                     </div>
                                     <!-- Third column of links -->
-                                    <div class="col-md-3">
-                                        <h4 class="mega-heading">Branding</h4>
+                                    <div class="col">
+                                        <h4 class="mega-heading">
+                                            <ul class="">
+                                            <li class="d-flex align-items-center">
+                                             <a href="web-development-services.php">Content Writing</a></li>
+                                        </ul>
+                                    </h4>
                                         <ul class="mega-list">
-                                            <li class="d-flex align-items-center"><img
-                                                    src="assets/images/icon/graphic.png" alt="graph"><a
-                                                    href="graphic-designing-services.php">Graphic Designing</a></li>
-                                            <li class="d-flex align-items-center"><img
-                                                    src="assets/images/icon/video-edit.png" alt="video"><a
-                                                    href="video-editing-and-animation-services.php">Video Editing &
-                                                    Animation</a></li>
+                                            <li class="d-flex align-items-center"><a
+                                                    href="web-development-services.php">Copy Writing</a></li>
+                                            <li class="d-flex align-items-center"><a
+                                                    href="mobile-app-development-services.php">Website Content</a></li>
                                         </ul>
                                     </div>
                                     <!-- Fourth column of links -->
-                                    <div class="col-md-3">
-                                        <h4 class="mega-heading">Solutions</h4>
+                                    <div class="col">
+                                        <h4 class="mega-heading">
+                                            <ul class="">
+                                            <li class="d-flex align-items-center">
+                                             <a href="web-development-services.php">PPC</a></li>
+                                        </ul>
+                                    </h4>
                                         <ul class="mega-list">
-                                            <li class="d-flex align-items-center"><img src="assets/images/icon/crm.png"
-                                                    alt="crm"><a href="auto-biz-crm.php">AutoBiz CRM</a></li>
-                                            <li class="d-flex align-items-center"><img src="assets/images/icon/erp.png"
-                                                    alt="erp"><a href="auto-biz-erp.php">AutoBiz ERP</a></li>
-                                            <li class="d-flex align-items-center"><img
-                                                    src="assets/images/icon/sale-force.png" alt="sale"><a
-                                                    href="salesforce-services.php">Sales Force</a></li>
-                                            <li class="d-flex align-items-center"><img
-                                                    src="assets/images/icon/staff-augumentation.png" alt="staf"><a
-                                                    href="staff-augmentation-services.php">Staff Augmentation</a></li>
+                                            <li class="d-flex align-items-center"><a
+                                                    href="web-development-services.php">Google Ads</a></li>
+                                            <li class="d-flex align-items-center"><a
+                                                    href="mobile-app-development-services.php">Social Media Ads</a></li>
                                         </ul>
                                     </div>
+                                    <div class="col">
+                                        <h4 class="mega-heading">
+                                            <ul class="">
+                                            <li class="d-flex align-items-center">
+                                             <a href="web-development-services.php">Link Building</a></li>
+                                        </ul>
+                                    </h4>
+                                        <ul class="mega-list">
+                                            <li class="d-flex align-items-center"><a
+                                                    href="web-development-services.php">Google Ads</a></li>
+                                            <li class="d-flex align-items-center"><a
+                                                    href="mobile-app-development-services.php">Social Media Ads</a></li>
+                                        </ul>
+                                    </div>
+
+                                    <div class="col">
+                                        <h4 class="mega-heading">
+                                            <ul class="">
+                                            <li class="d-flex align-items-center">
+                                             <a href="web-development-services.php">Solutions</a></li>
+                                        </ul>
+                                    </h4>
+                                        <ul class="mega-list">
+                                            <li class="d-flex align-items-center"><a
+                                                    href="web-development-services.php">AutoBiz CRM</a></li>
+                                            <li class="d-flex align-items-center"><a
+                                                    href="mobile-app-development-services.php">AutoBiz ERP</a></li>
+                                                    <li class="d-flex align-items-center"><a
+                                                    href="mobile-app-development-services.php">Sales Force</a></li>
+                                                    <li class="d-flex align-items-center"><a
+                                                    href="mobile-app-development-services.php">Staff Augmentation</a></li>
+                                        </ul>
+                                    </div>
+
                                 </div>
                             </div>
                         </div>
