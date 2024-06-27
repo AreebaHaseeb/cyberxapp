@@ -247,7 +247,7 @@
                                                         <p class="contact-one__info__text">Have any question?</p>
                                                         <!-- /.contact-one__info__text -->
                                                         <h4 class="contact-one__info__title"><a
-                                                                href="tel:(614)714-6690">(614) 714-6690</a></h4>
+                                                                href="tel:(614)714-6690">(614) 714-6688</a></h4>
                                                         <!-- /.contact-one__info__title -->
                                                     </div><!-- /.contact-one__info__content -->
                                                 </li>

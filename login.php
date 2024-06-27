@@ -161,7 +161,7 @@
                                 </div>
                                 <div class="info__item__content">
                                     <span class="info__item__content__text"><b>CALL US:</b></span>
-                                    <h6 class="info__item__content__call">(614) 714-6690</h6>
+                                    <h6 class="info__item__content__call">(614) 714-6688</h6>
                                 </div>
                             </a>
                             <a href="#" class="search-toggler info__item">
@@ -343,7 +343,7 @@
                                                 43016. U.S</span></li>
 
                                         <li class="footer-widget__info__item"> <i class="icon-phone-1"
-                                                aria-hidden="true"></i> <a href="tel:(614)714-6690">(614) 714-6690</a>
+                                                aria-hidden="true"></i> <a href="tel:(614)714-6690">(614) 714-6688</a>
                                         </li>
                                         <li class="footer-widget__info__item"> <i class="icon-envelope"
                                                 aria-hidden="true"></i> <a
@@ -395,7 +395,7 @@
                 </li>
                 <li>
                     <i class="fa fa-phone-alt"></i>
-                    <a href="tel:(614)714-6690">(614) 714-6690</a>
+                    <a href="tel:(614)714-6690">(614) 714-6688</a>
                 </li>
             </ul><!-- /.mobile-nav__contact -->
             <div class="mobile-nav__social">

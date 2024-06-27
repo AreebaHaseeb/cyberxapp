@@ -553,7 +553,6 @@ At Crystal Techify, our goal is to make sure your brand gets noticed among all t
 
 <section class=" mb-60">
             <div class="container">
-
                 <div class="row gutter-y-30">
                     <div class="col-md-6 col-lg-4">
                         <div class=" wow  fadeInUp"  data-wow-delay="000ms">
@@ -652,13 +651,12 @@ At Crystal Techify, our goal is to make sure your brand gets noticed among all t
 <div class="card">
   <div class="card-header">
     <a class="card-link" data-toggle="collapse" href="#collapseOne">
-    What is Digital Marketing?
+    How is digital marketing different from traditional marketing?
     </a>
   </div>
   <div id="collapseOne" class="collapse show faq-collapse" data-parent="#accordion">
     <div class="card-body">
-    Digital marketing encompasses all aspects and activities of marketing an organization, business, or brand across digital channels on the internet. Digital marketing strategies and tactics are crafted to target specific online audiences across a variety of internet-connected devices.
-Digital marketing includes optimization across search engines (the likes of Google and Bing), visibility and engagement on social media platforms, email marketing communications, website design and development and integrated applications to connect and engage with prospects and customers.
+    Traditional marketing involves marketing the service/product through offlines channels but with digital marketing, marketers target the audience through online medium. It not just saves time but is budget friendly too. And as it's the era of digital media, it's easy to target the right audience at the right time to generate leads for your business. 
     </div>
   </div>
 </div>
@@ -666,27 +664,86 @@ Digital marketing includes optimization across search engines (the likes of Goog
 <div class="card">
   <div class="card-header">
     <a class="collapsed card-link" data-toggle="collapse" href="#collapseTwo">
-    What is Digital Marketing?
+    Why is digital marketing important for my business?
     </a>
   </div>
   <div id="collapseTwo" class="collapse faq-collapse" data-parent="#accordion">
     <div class="card-body">
-    Digital marketing encompasses all aspects and activities of marketing an organization, business, or brand across digital channels on the internet. Digital marketing strategies and tactics are crafted to target specific online audiences across a variety of internet-connected devices.
-    Digital marketing includes optimization across search engines (the likes of Google and Bing),
+    Digital marketing proves to be a good choice for any business no matter in what industry you are investing in. some of the top benefits that digital marketing services bring to the board for brands include: 
+        <ul>
+            <li> You can target the audience through different channels for quick results </li>
+            <li> Affordable price </li>
+            <li> Increased ROI</li>
+            <li> Higher audience engagement </li>
+            <li> Less marketing expense </li>
+        </ul>
+    </div>
+  </div>
+</div>
+
+<div class="card">
+  <div class="card-header">
+    <a class="collapsed card-link" data-toggle="collapse" href="#collapseThree">
+    What digital marketing services does Crystal Techify provide? 
+    </a>
+  </div>
+  <div id="collapseThree" class="collapse faq-collapse" data-parent="#accordion">
+    <div class="card-body">
+    We at Crystal Techify, offer a wide range of digital marketing services including search engine optimization (SEO), social media marketing (SMM), search engine marketing (SMM), web design and development, content marketing, PPC, link building, graphic design, video editing and animation. 
+    </div>
+  </div>
+</div>
+
+<div class="card">
+  <div class="card-header">
+    <a class="collapsed card-link" data-toggle="collapse" href="#collapseFour">
+    What are the best tools for managing digital marketing campaigns?
+    </a>
+  </div>
+  <div id="collapseFour" class="collapse faq-collapse" data-parent="#accordion">
+    <div class="card-body">
+    Managing digital marketing campaigns efficiently requires a variety of tools to handle different strategies such as planning, execution, analytics, and business optimization. Some of the best tools people use for digital marketing campaigns include: 
+        <ul>
+            <li>Canva</li>
+            <li>Adobe Creative Cloud</li>
+            <li>WordPress</li>
+            <li>Hootsuite</li>
+            <li>Buffer</li>
+            <li>Mailchimp</li>
+            <li>Google Analytics</li>
+            <li>SEMrush</li>
+            <li>Ahrefs</li>
+            <li>Moz</li>
+            <li>Yoast SEO</li>
+            <li>Google Ads</li>
+            <li>HubSpot</li>
+        </ul>
+    </div>
+  </div>
+</div>
+
+<div class="card">
+  <div class="card-header">
+    <a class="collapsed card-link" data-toggle="collapse" href="#collapseFive">
+    What digital marketing services does Crystal Techify provide? 
+    </a>
+  </div>
+  <div id="collapseFive" class="collapse faq-collapse" data-parent="#accordion">
+    <div class="card-body">
+    We at Crystal Techify, offer a wide range of digital marketing services including search engine optimization (SEO), social media marketing (SMM), search engine marketing (SMM), web design and development, content marketing, PPC, link building, graphic design, video editing and animation. 
     </div>
   </div>
 </div>
 
 <div class="card">
   <div class="card-header mb-0">
-    <a class="collapsed card-link" data-toggle="collapse" href="#collapseThree">
-    What is Digital Marketing?
+    <a class="collapsed card-link" data-toggle="collapse" href="#collapseSix">
+    What digital marketing services does Crystal Techify provide? 
     </a>
   </div>
-  <div id="collapseThree" class="collapse faq-collapse" data-parent="#accordion">
+  <div id="collapseSix" class="collapse faq-collapse" data-parent="#accordion">
     <div class="card-body">
-    Digital marketing encompasses all aspects and activities of marketing an organization, business, or brand across digital channels on the internet. Digital marketing strategies and tactics are crafted to target specific online audiences across a variety of internet-connected devices.
-    Digital marketing includes optimization across search engines (the likes of Google and Bing),
+    We at Crystal Techify, offer a wide range of digital marketing services including search engine optimization (SEO), social media marketing (SMM), search engine marketing (SMM), web design and development, content marketing, PPC, link building, graphic design, video editing and animation. 
     </div>
   </div>
 </div>

@@ -37,7 +37,7 @@
                                                class="footer-widget__text d-flex"><i class="icon-map-pin"></i> PO BOX
                                                3323 Dublin, OH 43016. U.S</span></li>
                                        <li class="footer-widget__info__item footer-info mb-4"> <i class="icon-phone-1"
-                                               aria-hidden="true"></i> <a href="tel:(614)714-6690">(614) 714-6690</a>
+                                               aria-hidden="true"></i> <a href="tel:(614)714-6690">(614) 714-6688</a>
                                        </li>
                                        <li class="footer-widget__info__item footer-info"> <i class="icon-envelope"
                                                aria-hidden="true"></i> <a
@@ -163,7 +163,7 @@
                </li>
                <li>
                    <i class="fa fa-phone-alt"></i>
-                   <a href="tel:(614)714-6690">(614) 714-6690</a>
+                   <a href="tel:(614)714-6690">(614) 714-6688</a>
                </li>
            </ul><!-- /.mobile-nav__contact -->
            <div class="mobile-nav__social">
