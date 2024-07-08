@@ -6,6 +6,11 @@
 (function ($) {
   "use strict";
   /*-- Checkout Accoradin --*/
+  document.addEventListener('mousemove', function(e) {
+    const dot = document.getElementById('dot');
+    dot.style.left = `${e.pageX}px`;
+    dot.style.top = `${e.pageY}px`;
+});
   $(document).ready(function() {
     // Function to check and update classes based on screen size
     function checkScreenSize() {

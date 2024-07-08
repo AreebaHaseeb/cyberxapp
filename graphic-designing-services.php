@@ -27,7 +27,7 @@
         content="Looking for graphic design services near me? Our expert designers deliver stunning visuals from logos to marketing that enhance branding & captivate audiences.">
 
     <!-- ======== Page title ============ -->
-    <title>Professional Branding & Graphic Design Services | CyberX</title>
+    <title>Professional Branding & Graphic Design Services | Crystal Techify</title>
 
     <!-- ========== Favicon Icon ========== -->
     <link rel="canonical" href="https://cyberxapp.com/graphic-designing-services" />
@@ -164,10 +164,10 @@
                                 <!-- /.service-details__title -->
                                 <p class="service-details__text wow fadeInUp" data-wow-delay='350ms'>Looking for someone
                                     who can design a new brand or rebrand your running business? We are here for you!
-                                    CyberX offers <b class="text-bold">online graphic design services</b> for business
+                                    Crystal Techify offers <b class="text-bold">online graphic design services</b> for business
                                     owners like you.
                                     <br>
-                                    Some of the in-demand services CyberX brings to help you out include website design,
+                                    Some of the in-demand services Crystal Techify brings to help you out include website design,
                                     logo design, and the list goes on. We'll bring your dream design to reality with <b
                                         class="text-bold">custom graphic design</b> choices that best fit your business.
                                 </p>
@@ -179,7 +179,7 @@
                                     Design & Branding Choices for You!</h3><!-- /.service-details__title -->
                                 <p class="service-details__text wow fadeInUp" data-wow-delay='350ms'>Feel free to step
                                     into the market whether you are a startup owner or a small business struggling to
-                                    survive in this overcrowded marketplace, as CyberX offers <b
+                                    survive in this overcrowded marketplace, as Crystal Techify offers <b
                                         class="text-bold">graphic design and branding services for small businesses</b>
                                     . With our expertise, we can build your brand stronger while cutting down the extra
                                     costs and saving up your budget.

@@ -24,10 +24,10 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="author" content="layerdrops">
     <meta name="description"
-        content="Walk through our portfolio to discover the exceptional IT services offered by CyberX, a top IT Company in USA.">
+        content="Walk through our portfolio to discover the exceptional IT services offered by Crystal Techify, a top IT Company in USA.">
 
     <!-- ======== Page title ============ -->
-    <title>Leading IT Company in USA | Portfolio | CyberX</title>
+    <title>Leading IT Company in USA | Portfolio | Crystal Techify</title>
 
     <!-- ========== Favicon Icon ========== -->
     <link rel="canonical" href="https://cyberxapp.com/portfolio" />

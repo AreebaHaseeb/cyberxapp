@@ -122,7 +122,7 @@
                                 <h2 class="service-details__sub-title wow fadeInUp" data-wow-delay='300ms'>Project
                                     Management with CRM Modules</h2><!-- /.service-details__title -->
                                 <p class="service-details__text wow fadeInUp" data-wow-delay='350ms'>Experience the peak
-                                    of project management with CyberX's professional CRM modules. You can easily track
+                                    of project management with Crystal Techify's professional CRM modules. You can easily track
                                     the employees' time spent on tasks. You can even assign responsibilities to multiple
                                     teammates and stay ahead of deadlines with top-notch timeline reports and KPI
                                     indicators. Empower your team to deliver exceptional results today.</p>
@@ -163,7 +163,7 @@
                             <p class="service-details__text wow fadeInUp" data-wow-delay='350ms'>
                                 Gain key performance insights about your teams, identify emerging trends in the business
                                 industry, and make smart decisions that take your business to the new heights with
-                                CyberX's CRM now.</p>
+                                Crystal Techify's CRM now.</p>
                         </div>
                     </div>
                 </div>

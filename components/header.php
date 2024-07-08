@@ -26,18 +26,18 @@
                                         <h4 class="mega-heading">
                                             <ul class="">
                                             <li class="d-flex align-items-center">
-                                             <a href="digital-marketing-services.php">Digital Marketing</a></li>
+                                             <a href="digital-marketing.php">Digital Marketing</a></li>
                                         </ul>
                                     </h4>
                                         <ul class="mega-list">
                                             <li class="d-flex align-items-center">
                                                 <a
-                                                    href="seo-services.php">Search Engine Optimization</a></li>
+                                                    href="search-engine-optimization.php">Search Engine Optimization</a></li>
                                             <li class="d-flex align-items-center"><a
-                                                    href="seo-services.php">Social Media Management </a></li>
+                                                    href="social-media-managment.php">Social Media Management </a></li>
                                             <li class="d-flex align-items-center">
                                                <a
-                                                    href="seo-services.php">Search Engine Marketing</a></li>
+                                                    href="serach-engine-marketing.php">Search Engine Marketing</a></li>
                                         </ul>
                                     </div>
                                     <!-- Second column of links -->
@@ -45,16 +45,16 @@
                                         <h4 class="mega-heading">
                                             <ul class="">
                                             <li class="d-flex align-items-center">
-                                             <a href="web-development-services.php">Web Development</a></li>
+                                             <a href="web-development.php">Web Development</a></li>
                                         </ul>
                                     </h4>
                                         <ul class="mega-list">
                                             <li class="d-flex align-items-center"><a
-                                                    href="web-development-services.php">Custom Website</a></li>
+                                                    href="custom-website.php">Custom Website</a></li>
                                             <li class="d-flex align-items-center"><a
-                                                    href="mobile-app-development-services.php">Wordpress Website</a></li>
+                                                    href="wordpress-website.php">Wordpress Website</a></li>
                                             <li class="d-flex align-items-center"><a
-                                                    href="custom-software-development-services.php">React Website</a></li>
+                                                    href="react-website-services.php">React Website</a></li>
                                         </ul>
                                     </div>
                                     <!-- Third column of links -->
@@ -62,14 +62,14 @@
                                         <h4 class="mega-heading">
                                             <ul class="">
                                             <li class="d-flex align-items-center">
-                                             <a href="web-development-services.php">Content Writing</a></li>
+                                             <a href="content-writing-services.php">Content Writing</a></li>
                                         </ul>
                                     </h4>
                                         <ul class="mega-list">
                                             <li class="d-flex align-items-center"><a
-                                                    href="web-development-services.php">Copy Writing</a></li>
+                                                    href="copy-writing-services.php">Copy Writing</a></li>
                                             <li class="d-flex align-items-center"><a
-                                                    href="mobile-app-development-services.php">Website Content</a></li>
+                                                    href="website-content-services.php">Website Content</a></li>
                                         </ul>
                                     </div>
                                     <!-- Fourth column of links -->
@@ -77,28 +77,28 @@
                                         <h4 class="mega-heading">
                                             <ul class="">
                                             <li class="d-flex align-items-center">
-                                             <a href="web-development-services.php">PPC</a></li>
+                                             <a href="ppc-services.php">PPC</a></li>
                                         </ul>
                                     </h4>
                                         <ul class="mega-list">
                                             <li class="d-flex align-items-center"><a
-                                                    href="web-development-services.php">Google Ads</a></li>
+                                                    href="google-ads-services.php">Google Ads</a></li>
                                             <li class="d-flex align-items-center"><a
-                                                    href="mobile-app-development-services.php">Social Media Ads</a></li>
+                                                    href="social-media-ads.php">Social Media Ads</a></li>
                                         </ul>
                                     </div>
                                     <div class="col">
                                         <h4 class="mega-heading">
                                             <ul class="">
                                             <li class="d-flex align-items-center">
-                                             <a href="web-development-services.php">Link Building</a></li>
+                                             <a href="link-building-services.php">Link Building</a></li>
                                         </ul>
                                     </h4>
                                         <ul class="mega-list">
                                             <li class="d-flex align-items-center"><a
                                                     href="web-development-services.php">Google Ads</a></li>
                                             <li class="d-flex align-items-center"><a
-                                                    href="mobile-app-development-services.php">Social Media Ads</a></li>
+                                                    href="social-media-ads.php">Social Media Ads</a></li>
                                         </ul>
                                     </div>
 
@@ -106,18 +106,18 @@
                                         <h4 class="mega-heading">
                                             <ul class="">
                                             <li class="d-flex align-items-center">
-                                             <a href="web-development-services.php">Solutions</a></li>
+                                             <a href="solutions-services.php">Solutions</a></li>
                                         </ul>
                                     </h4>
                                         <ul class="mega-list">
                                             <li class="d-flex align-items-center"><a
-                                                    href="web-development-services.php">AutoBiz CRM</a></li>
+                                                    href="auto-biz-crm.php">AutoBiz CRM</a></li>
                                             <li class="d-flex align-items-center"><a
-                                                    href="mobile-app-development-services.php">AutoBiz ERP</a></li>
+                                                    href="auto-biz-erp.php">AutoBiz ERP</a></li>
                                                     <li class="d-flex align-items-center"><a
-                                                    href="mobile-app-development-services.php">Sales Force</a></li>
+                                                    href="salesforce-services.php">Sales Force</a></li>
                                                     <li class="d-flex align-items-center"><a
-                                                    href="mobile-app-development-services.php">Staff Augmentation</a></li>
+                                                    href="staff-augmentation-services.php">Staff Augmentation</a></li>
                                         </ul>
                                     </div>
 

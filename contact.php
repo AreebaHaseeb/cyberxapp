@@ -42,10 +42,10 @@
     </script>
     <!-- End Google Tag Manager -->
     <meta name="description"
-        content="Looking for a reliable IT solution provider in USA? Contact CyberX for top IT services & solutions tailored to your needs. Reach out now for top-notch services.">
+        content="Looking for a reliable IT solution provider in USA? Contact Crystal Techify for top IT services & solutions tailored to your needs. Reach out now for top-notch services.">
 
     <!-- ======== Page title ============ -->
-    <title>Contact Us - CyberX</title>
+    <title>Contact Us - Crystal Techify</title>
 
     <!-- ========== Favicon Icon ========== -->
     <link rel="canonical" href="https://cyberxapp.com/contact" />
@@ -142,8 +142,8 @@
                                         <div class="contact-one__info__content">
                                             <!-- <p class="contact-one__info__text">Have any question?</p> -->
                                             <!-- /.contact-one__info__text -->
-                                            <h4 class="contact-one__info__title"><a href="tel:(614)714-6690">(614)
-                                                    714-6690</a></h4><!-- /.contact-one__info__title -->
+                                            <h4 class="contact-one__info__title"><a href="tel:(614)714-6690">
+                                            (614) 714-6688</a></h4><!-- /.contact-one__info__title -->
                                         </div><!-- /.contact-one__info__content -->
                                     </li>
                                     <li class="contact-one__info__item">
@@ -154,7 +154,7 @@
                                             <!-- <p class="contact-one__info__text">Send Email</p> -->
                                             <!-- /.contact-one__info__text -->
                                             <h4 class="contact-one__info__title"><a
-                                                    href="mailto:info@cyberxapp.com">info@cyberxapp.com</a></h4>
+                                                    href="mailto:info@crystaltechify.com">info@crystaltechify.com</a></h4>
                                             <!-- /.contact-one__info__title -->
                                         </div><!-- /.contact-one__info__content -->
                                     </li>

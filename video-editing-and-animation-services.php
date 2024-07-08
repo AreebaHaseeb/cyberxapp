@@ -24,7 +24,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="author" content="layerdrops">
     <meta name="description"
-        content="We, at CyberX, offer professional video editing services including wedding video editing services, YouTube video editing services, and many more.">
+        content="We, at Crystal Techify, offer professional video editing services including wedding video editing services, YouTube video editing services, and many more.">
 
     <!-- ======== Page title ============ -->
     <title>Video Editing Services | Social Media Video Services</title>
@@ -169,7 +169,7 @@
                                     content requires substantial time, skills, and resources that most companies simply
                                     don't have. That's where we come in.
                                     <br>
-                                    At CyberX, we offer the <b>best video animation services</b> to help businesses just
+                                    At Crystal Techify, we offer the <b>best video animation services</b> to help businesses just
                                     like yours to succeed on social media. For decades, we have provided affordable <b
                                         class="text-bold">2d and 3d video animation services</b> to clients across all
                                     industries.

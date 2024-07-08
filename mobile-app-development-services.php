@@ -24,10 +24,10 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="author" content="layerdrops">
     <meta name="description"
-        content="From design to development, choose CyberX for custom mobile app development services to elevate your brand for effortless user experience. ">
+        content="From design to development, choose Crystal Techify for custom mobile app development services to elevate your brand for effortless user experience. ">
 
     <!-- ======== Page title ============ -->
-    <title>Best Mobile App Development Services | CyberX </title>
+    <title>Best Mobile App Development Services | Crystal Techify </title>
 
     <!-- ========== Favicon Icon ========== -->
     <link rel="canonical" href="https://cyberxapp.com/mobile-app-development-services" />
@@ -171,7 +171,7 @@
                                     your business.
                                 </p>
                                 <p class="service-details__text wow fadeInUp" data-wow-delay='350ms'>With a solid online
-                                    presence, brands increase customer engagement and market visibility. CyberX helps
+                                    presence, brands increase customer engagement and market visibility. Crystal Techify helps
                                     you create state-of-the-art solutions and turn your app designs into a
                                     transformative mobile app for an effortless customer experience. That's why we stand
                                     up high among the leading <b class="text-bold">mobile app development companies</b>
@@ -196,7 +196,7 @@
                                 </p>
                                 <p class="service-details__text wow fadeInUp" data-wow-delay='350ms'>
                                     <b style="color: rgb(28, 28, 28);">E Commerce Industry</b> <br>
-                                    The eCommerce industry is like diving into the ocean. CyberX is the best mobile app
+                                    The eCommerce industry is like diving into the ocean. Crystal Techify is the best mobile app
                                     development platform, as we provide <a href="ecommerce-development-services.php"><b
                                             class="text-bold">online shopping app designs</b></a> with modern features
                                     and the latest technologies.<br>
@@ -223,7 +223,7 @@
                                     the <b class="text-bold">experienced mobile app developers in USA</b>, we provide
                                     personalized mobile apps to boost your business revenue.
                                     <br>
-                                    CyberX serves as your all-time partner in assisting your mobile app development
+                                    Crystal Techify serves as your all-time partner in assisting your mobile app development
                                     project. With our <b class="text-bold">best mobile app dev services</b>, we design
                                     mobile apps that add value to your business. We care for you and offer <b
                                         class="text-bold">professional mobile app development services</b> on an

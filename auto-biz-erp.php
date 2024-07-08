@@ -24,10 +24,10 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="author" content="layerdrops">
     <meta name="description"
-        content="Looking for best ERP services in USA? Switch to CyberX ERP System Software to optimize your business processes, improve productivity and enhance efficiency.">
+        content="Looking for best ERP services in USA? Switch to Crystal Techify ERP System Software to optimize your business processes, improve productivity and enhance efficiency.">
 
     <!-- ======== Page title ============ -->
-    <title>ERP Solutions | Best ERP System Software | CyberX</title>
+    <title>ERP Solutions | Best ERP System Software | Crystal Techify</title>
 
     <!-- ========== Favicon Icon ========== -->
     <link rel="canonical" href="https://cyberxapp.com/auto-biz-erp" />
@@ -132,7 +132,7 @@
                             <div class="service-details__single mb-3">
                                 <h3 class="service-details__title wow fadeInUp" data-wow-delay='300ms'>Track Your
                                     Project Performance with ERP Software</h3><!-- /.service-details__title -->
-                                <p class="service-details__text wow fadeInUp" data-wow-delay='350ms'>At CyberX, we can
+                                <p class="service-details__text wow fadeInUp" data-wow-delay='350ms'>At Crystal Techify, we can
                                     help you manage your business with our quality <b class="text-bold">ERP project
                                         management</b> modules. You can easily track project tasks and time estimates.
                                     Even you don't need to hassle with assigning tasks to multiple staff members as we

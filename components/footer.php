@@ -3,18 +3,20 @@
        <div class="main-footer__middle">
            <div class="container-fluid">
                <div class="row d-flex justify-content-center">
+               <div class="footer-widget--links mb-3 text-center">
+                               <a href="index.php" class="main-footer__inner-logo">
+                                   <img src="assets/images/white-logo.png"  alt="logo" style="width: 137px; height:118px;">
+                               </a>
+                           </div>
                    <div class="col-md-6 col-xl-3 footer-order">
                        <div class="footer-widget">
-                           <div class="footer-widget--links mb-4">
-                               <a href="index.php" class="main-footer__inner-logo">
-                                   <img src="assets/images/logo.png" width="149" alt="logo">
-                               </a>
-                           </div><!-- /.footer-widget -->
+                         
+                           <!-- /.footer-widget -->
                            <div class="main-footer__inner-social mb-4">
                                <a class="facebook" href="https://www.facebook.com/people/Cyberx/61557392516110/"> <img
                                        src="assets/images/icon/facebook.png" alt="facebook"> <span
                                        class="sr-only">Facebook</span></a>
-                               <a class="linkdin" href="https://www.linkedin.com/company/cyberx-technology/"><img
+                               <a class="linkdin" href="https://www.linkedin.com/company/crystaltechify/"><img
                                        src="assets/images/icon/linkedin.png" alt="facebook"><span
                                        class="sr-only">Linkedin</span></a>
                                <a class="twitter" href="https://twitter.com/Cyberx121036"><img
@@ -37,7 +39,7 @@
                                                class="footer-widget__text d-flex"><i class="icon-map-pin"></i> PO BOX
                                                3323 Dublin, OH 43016. U.S</span></li>
                                        <li class="footer-widget__info__item footer-info mb-4"> <i class="icon-phone-1"
-                                               aria-hidden="true"></i> <a href="tel:(614)714-6690">(614) 714-6688</a>
+                                               aria-hidden="true"></i> <a href="tel:(614)714-6688">(614) 714-6688</a>
                                        </li>
                                        <li class="footer-widget__info__item footer-info"> <i class="icon-envelope"
                                                aria-hidden="true"></i> <a
@@ -163,13 +165,13 @@
                </li>
                <li>
                    <i class="fa fa-phone-alt"></i>
-                   <a href="tel:(614)714-6690">(614) 714-6688</a>
+                   <a href="tel:(614)714-6688">(614) 714-6688</a>
                </li>
            </ul><!-- /.mobile-nav__contact -->
            <div class="mobile-nav__social">
                <a class="facebook" href="https://www.facebook.com/people/Cyberx/61557392516110/"> <img
                        src="assets/images/icon/facebook.png" alt="facebook"> <span class="sr-only">Facebook</span></a>
-               <a class="linkdin" href="https://www.linkedin.com/company/cyberx-technology/"><img
+               <a class="linkdin" href="https://www.linkedin.com/company/crystaltechify/"><img
                        src="assets/images/icon/linkedin.png" alt="facebook"><span class="sr-only">Linkedin</span></a>
                <a class="twitter" href="https://twitter.com/Cyberx121036"><img src="assets/images/icon/twitter.png"
                        alt="facebook"><span class="sr-only">Twitter</span></a>

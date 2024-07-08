@@ -24,10 +24,10 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="author" content="layerdrops">
     <meta name="description"
-        content="CyberX, a leading IT company in USA, is revolutionizing the tech industry with innovative IT solutions & services. Learn more about our mission and vision.">
+        content="Crystal Techify, a leading IT company in USA, is revolutionizing the tech industry with innovative IT solutions & services. Learn more about our mission and vision.">
 
     <!-- ======== Page title ============ -->
-    <title>IT Company in USA | About Us | CyberX</title>
+    <title>IT Company in USA | About Us | Crystal Techify</title>
 
     <!-- ========== Favicon Icon ========== -->
     <link rel="shortcut icon" href="assets/images/favicon.png" type="image/x-icon">
@@ -273,18 +273,18 @@
                                 <div class="blog-card wow fadeInUp" data-wow-delay='700ms'>
                                     <div class="blog-card__image">
                                         <img src="assets/images/blog/solutions/1.jpg"
-                                            alt="CyberX: Shaping a Digital Future with Cutting-Edge IT Solutions">
+                                            alt="Crystal Techify: Shaping a Digital Future with Cutting-Edge IT Solutions">
                                         <img src="assets/images/blog/solutions/1.jpg"
-                                            alt="CyberX: Shaping a Digital Future with Cutting-Edge IT Solutions">
+                                            alt="Crystal Techify: Shaping a Digital Future with Cutting-Edge IT Solutions">
                                         <a href="why-cyberx-is-the-right-it-service-provider-for-your-business.php"
-                                            class="blog-card__image__link"><span class="sr-only">Why CyberX is the Right
+                                            class="blog-card__image__link"><span class="sr-only">Why Crystal Techify is the Right
                                                 IT Service Provider for Your Business?</span></a>
                                     </div><!-- /.blog-card__image -->
 
                                     <div class="blog-card__content">
                                         <h3 class="blog-card__title"><a
                                                 href="why-cyberx-is-the-right-it-service-provider-for-your-business.php">Why
-                                                CyberX is the Right IT Service Provider for Your Business? </a></h3>
+                                                Crystal Techify is the Right IT Service Provider for Your Business? </a></h3>
                                         <!-- /.blog-card__title -->
                                         <div class="blog-card__content__btn">
                                             <a href="why-cyberx-is-the-right-it-service-provider-for-your-business.php"

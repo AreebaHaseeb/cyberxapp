@@ -40,17 +40,17 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description"
-        content="Get best IT services from CyberX! Our outsourced IT services include digital marketing, SEO, web development, and more for efficiency and innovation.">
+        content="Crystal Techify - a digital marketing agency that provides variety of services i.e. SEO, web development, SMM, PPC, content marketing & everything in between.">
         <meta name="google-site-verification" content="oLTCQtTg25Tk7Oq23HKYgdbLu-fnN3Xbfzvl5SqlmqY" />
 
     <!-- OG Meta Tags -->
     <meta property="og:locale" content="en_US">
     <meta property="og:type" content="website">
-    <meta property="og:title" content="Best IT Company in USA - IT & Digital Marketing Services | CyberX">
+    <meta property="og:title" content="Best IT Company in USA - IT & Digital Marketing Services | Crystal Techify">
     <meta property="og:description"
-        content="Get best IT services from CyberX! Our outsourced IT services include digital marketing, SEO, web development, and more for efficiency and innovation.">
+        content="Get best IT services from Crystal Techify! Our outsourced IT services include digital marketing, SEO, web development, and more for efficiency and innovation.">
     <meta property="og:url" content="https://cyberxapp.com/">
-    <meta property="og:site_name" content="CyberXapp">
+    <meta property="og:site_name" content="Crystal Techifyapp">
     <meta property="og:image"
         content="https://cyberxapp.com/assets/images/gallery/best-IT-company-in-USA-for-it-services.webp">
     <meta property="og:image:secure_url"
@@ -60,8 +60,8 @@
     <!-- Twitter Meta Tags -->
     <meta name="twitter:card" content="summary_large_image">
     <meta name="twitter:description"
-        content="Get best IT services from CyberX! Our outsourced IT services include digital marketing, SEO, web development, and more for efficiency and innovation.">
-    <meta name="twitter:title" content=" Best IT Company in USA - IT & Digital Marketing Services | CyberX">
+        content="Get best IT services from Crystal Techify! Our outsourced IT services include digital marketing, SEO, web development, and more for efficiency and innovation.">
+    <meta name="twitter:title" content=" Best IT Company in USA - IT & Digital Marketing Services | Crystal Techify">
     <meta name="twitter:site" content="@Cyberx121036">
     <meta name="twitter:image"
         content="https://cyberxapp.com/assets/images/gallery/best-IT-company-in-USA-for-it-services.webp">
@@ -70,7 +70,7 @@
     <!-- OG Meta Tags End -->
 
     <!-- ======== Page title ============ -->
-    <title>Best IT Company in USA - IT services near me | CyberX</title>
+    <title>Crystal Techify | Digital Marketing Services and Solutions</title>
     <!-- ========== Favicon Icon ========== -->
     <meta name="robots" content="follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large">
     <link rel="canonical" href="https://cyberxapp.com">
@@ -126,6 +126,7 @@
     <!-- Preloader Start-->
     <div class="preloader">
     </div>
+    <div id="dot"></div>
     <!-- Preloader End-->
     <div class="page-wrapper position-relative">
         <!-- header-start -->
@@ -140,11 +141,11 @@
 
             </div>
             <div class="home-text">
-                <h1 class="hero-wrapper-one__title">Empowering Your Digital Future with Best IT Services</h1>
-                <p class="hero-wrapper-one__text" data-wow-duration='1000ms' data-wow-delay='1000ms'>Welcome to CyberX,
+                <h1 class="hero-wrapper-one__title">Empowering Your Digital Future with <span class="color-text">Best IT Services</span> </h1>
+                <p class="hero-wrapper-one__text" data-wow-duration='1000ms' data-wow-delay='1000ms'>Welcome to Crystal Techify,
                     where technology meets great service. Explore innovation, reliability & excellence. Upgrade your
                     digital world with our Next-Gen IT Services.</p><!-- /.hero-wrapper__text -->
-                <a href="contact.php" class="hero-wrapper-one__btn cyber-btn cyber-btn-base">Get In Touch</a>
+                <a href="contact.php" class="cyber-btn cyber-btn-base">Get In Touch</a>
             </div>
         </div>
 
@@ -169,7 +170,7 @@
                                 <h6 class="sec-title__tagline">About Us</h6><!-- /.sec-title__tagline -->
                             </div>
                             <div class="about-text">
-                                <h2 class="sec-title__title">Crystal Techify - Your Vision, Our Innovation </h2>
+                                <h2 class="sec-title__title">Crystal Techify - Your Vision, <br><span class="color-text">Our Innovation</span>  </h2>
                                 <p class="about-one__right__text  wow fadeInUp" data-wow-duration='1500ms'
                                     data-wow-delay='200ms'>
                                     Welcome to Crystal Techify - where we believe growth and results are everything. As an IT and digital marketing agency, we help businesses strategize, build, and improve their marketing game ultimately resulting in ROI boost. Our vision is building better business through technology. 
@@ -196,8 +197,8 @@
                             <div class="sec-title text-start wow fadeInUp" data-wow-duration='1500ms'
                                 data-wow-delay='800ms'>
                                 <h6 class="sec-title__tagline">Our Service</h6><!-- /.sec-title__tagline -->
-                                <h2 class="sec-title__title">Professional IT & Digital Marketing Services for Your
-                                    Success</h2><!-- /.sec-title__title -->
+                                <h2 class="sec-title__title">Professional IT & Digital Marketing Services <span class="color-text">for Your
+                                Success</span> </h2><!-- /.sec-title__title -->
                             </div><!-- /.sec-title -->
                         </div><!-- /.col-md-6 -->
                         <div class="col-md-6 col-lg-6 offset-lg-1">
@@ -313,7 +314,7 @@
                     </div>
 
                     <div class="d-flex justify-content-center">
-                        <a href="services.php" class="about-one__btn cyber-btn cyber-btn--black wow fadeInUp"
+                        <a href="services.php" class="cyber-btn cyber-btn-base"
                             data-wow-duration='1500ms' data-wow-delay='200ms'>Discover More</a>
                     </div>
                 </div>
@@ -330,7 +331,7 @@
                                 data-wow-delay='200ms'>
                                 <h6 class="sec-title__tagline">Why Choose Us</h6><!-- /.sec-title__tagline -->
                                 <h2 class="sec-title__title">
-                                Why Do Businesses Trust Us for Their Digital Marketing Services? 
+                                Why Do Businesses Trust Us for Their <span class="color-text">Digital Marketing Services</span> ? 
                                 </h2>
                                     <!-- /.sec-title__title -->
                             </div><!-- /.sec-title -->
@@ -421,7 +422,7 @@
             <div class="container">
                 <div class="sec-title text-center wow fadeInUp" data-wow-duration='1500ms' data-wow-delay='200ms'>
                     <h6 class="sec-title__tagline">Testimonial</h6><!-- /.sec-title__tagline -->
-                    <h2 class="sec-title__title">Hear From Our Successful Clients!</h2><!-- /.sec-title__title -->
+                    <h2 class="sec-title__title">Hear From Our <span class="color-text">Successful Clients!</span> </h2><!-- /.sec-title__title -->
                 </div><!-- /.sec-title -->
                 <div class="testimonials-one__carousel cyber-owl__carousel cyber-owl__carousel--with-shadow cyber-owl__carousel--basic-nav owl-carousel"
                     data-owl-options='{
@@ -461,7 +462,7 @@
                                         <i class="fa fa-star"></i>
                                         <i class="fa fa-star"></i>
                                     </div><!-- /.testimonials-card__rating -->
-                                    <p class="testimonials-card__top__designation">"Working with Cyber X was a
+                                    <p class="testimonials-card__top__designation">"Working with Crystal Techify was a
                                         game-changer for my small business. Their web development skills took our online
                                         presence to the next level, and the SEO strategies they implemented resulted in
                                         a significant boost in visibility."
@@ -496,7 +497,7 @@
                                         <i class="fa fa-star"></i>
                                     </div><!-- /.testimonials-card__rating -->
                                     <p class="testimonials-card__top__designation">"We have been very impressed by how
-                                        Cyber-X has been able to build a thorough back-end solution while also providing
+                                        Crystal Techify has been able to build a thorough back-end solution while also providing
                                         great UX/UI. A project of ours requires people to not only think technically but
                                         also to innovate in a way."
                                     </p><!-- /.testimonials-card__designation -->
@@ -531,7 +532,7 @@
                                     </div><!-- /.testimonials-card__rating -->
                                     <p class="testimonials-card__top__designation">"We would like to express our
                                         satisfaction with the cooperation regarding the development of our web
-                                        application. The Cyber X team did a very professional job. We are satisfied with
+                                        application. The Crystal Techify team did a very professional job. We are satisfied with
                                         the solution given to us and with the communication flow throughout the
                                         project."
                                     </p><!-- /.testimonials-card__designation -->
@@ -562,7 +563,7 @@
                         <div class="sec-title text-center wow fadeInUp" data-wow-duration='1500ms'
                             data-wow-delay='800ms'>
                             <h6 class="sec-title__tagline">Latest Articles</h6><!-- /.sec-title__tagline -->
-                            <h3 class="sec-title__title">Latest News & Articles from <br> the Blog Posts</h3>
+                            <h3 class="sec-title__title">Latest News & Articles from the <br> <span class="color-text"> Blog Posts</span> </h3>
                             <!-- /.sec-title__title -->
                         </div><!-- /.sec-title -->
                     </div><!-- /.col-12 -->
@@ -639,11 +640,11 @@
                         <div class="blog-card wow fadeInUp" data-wow-delay='700ms'>
                             <div class="blog-card__image">
                                 <img src="assets/images/blog/solutions/1.jpg"
-                                    alt="CyberX: Shaping a Digital Future with Cutting-Edge IT Solutions">
+                                    alt="Crystal Techify: Shaping a Digital Future with Cutting-Edge IT Solutions">
                                 <img src="assets/images/blog/solutions/1.jpg"
-                                    alt="CyberX: Shaping a Digital Future with Cutting-Edge IT Solutions">
+                                    alt="Crystal Techify: Shaping a Digital Future with Cutting-Edge IT Solutions">
                                 <a href="why-cyberx-is-the-right-it-service-provider-for-your-business.php"
-                                    class="blog-card__image__link"><span class="sr-only">Why CyberX is the Right IT
+                                    class="blog-card__image__link"><span class="sr-only">Why Crystal Techify is the Right IT
                                         Service Provider for Your Business?</span></a>
                             </div><!-- /.blog-card__image -->
 
@@ -657,7 +658,7 @@
                                 </div><!-- /.list-unstyled blog-card__meta -->
                                 <h3 class="blog-card__title"><a
                                         href="why-cyberx-is-the-right-it-service-provider-for-your-business.php">Why
-                                        CyberX is the Right IT Service Provider for Your Business? </a></h3>
+                                        Crystal Techify is the Right IT Service Provider for Your Business? </a></h3>
                                 <!-- /.blog-card__title -->
                                 <div class="blog-card__content__btn">
                                     <a href="why-cyberx-is-the-right-it-service-provider-for-your-business.php"
@@ -693,8 +694,7 @@
                                         <div class="contact-one__info__content">
                                             <!-- <p class="contact-one__info__text">Have any question?</p> -->
                                             <!-- /.contact-one__info__text -->
-                                            <h4 class="contact-one__info__title"><a href="tel:(614)714-6690">(614)
-                                                    714-6690</a></h4><!-- /.contact-one__info__title -->
+                                            <h4 class="contact-one__info__title"><a href="tel:(614)714-6688">(614) 714-6688</a></h4><!-- /.contact-one__info__title -->
                                         </div><!-- /.contact-one__info__content -->
                                     </li>
                                     <li class="contact-one__info__item">

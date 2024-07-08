@@ -24,9 +24,9 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="author" content="layerdrops">
     <meta name="description"
-        content="CyberX, a leading IT company in USA, is revolutionizing the tech industry with innovative IT solutions & services. Learn more about our mission and vision.">
+        content="Crystal Techify, a leading IT company in USA, is revolutionizing the tech industry with innovative IT solutions & services. Learn more about our mission and vision.">
     <!-- ======== Page title ============ -->
-    <title>IT Company in USA | About Us | CyberX</title>
+    <title>IT Company in USA | About Us | Crystal Techify</title>
 
     <!-- ========== Favicon Icon ========== -->
     <link rel="shortcut icon" href="assets/images/favicon.png" type="image/x-icon">
@@ -112,7 +112,7 @@
                         <p>We use your data to provide and improve the service. By using our website, you consent to the
                             collection and use of your information as described in this Privacy Policy.</p>
                         <h3 class="sec-title__title">Information We Collect</h3>
-                        <p>When you visit CyberX, we may collect two types of information: personal information you
+                        <p>When you visit Crystal Techify, we may collect two types of information: personal information you
                             voluntarily provide and non-personal information collected automatically.</p>
                         <p><span>Personal Information:</span> When you use our website, you may provide us with certain
                             personally identifiable information such as your name, email address, phone number, and any
@@ -247,7 +247,7 @@
                                                         <p class="contact-one__info__text">Have any question?</p>
                                                         <!-- /.contact-one__info__text -->
                                                         <h4 class="contact-one__info__title"><a
-                                                                href="tel:(614)714-6690">(614) 714-6688</a></h4>
+                                                                href="tel:(614)714-6688">(614) 714-6688</a></h4>
                                                         <!-- /.contact-one__info__title -->
                                                     </div><!-- /.contact-one__info__content -->
                                                 </li>
@@ -259,7 +259,7 @@
                                                         <p class="contact-one__info__text">Send Email</p>
                                                         <!-- /.contact-one__info__text -->
                                                         <h4 class="contact-one__info__title"><a
-                                                                href="mailto:info@cyberxapp.com">info@cyberxapp.com</a>
+                                                                href="mailto:info@crystaltechify.com">info@crystaltechify.com</a>
                                                         </h4>
                                                         <!-- /.contact-one__info__title -->
                                                     </div><!-- /.contact-one__info__content -->

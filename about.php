@@ -24,10 +24,10 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="author" content="layerdrops">
     <meta name="description"
-        content="CyberX, a leading IT company in USA, is revolutionizing the tech industry with innovative IT solutions & services. Learn more about our mission and vision.">
+        content="Crystal Techify, a leading IT company in USA, is revolutionizing the tech industry with innovative IT solutions & services. Learn more about our mission and vision.">
 
     <!-- ======== Page title ============ -->
-    <title>IT Company in USA | About Us | CyberX</title>
+    <title>IT Company in USA | About Us | Crystal Techify</title>
 
     <!-- ========== Favicon Icon ========== -->
     <link rel="canonical" href="https://cyberxapp.com/about" />
@@ -116,18 +116,16 @@
                             <div class="sec-title text-start wow fadeInUp" data-wow-duration='1500ms'
                                 data-wow-delay='200ms'>
                                 <h6 class="sec-title__tagline">About Us</h6><!-- /.sec-title__tagline -->
-                                <h2 class="sec-title__title">Challenges in Digital Technology are Our Specialty</h2>
+                                <h2 class="sec-title__title">Crystal Techify - Your Vision, Our Innovation</h2>
                                 <!-- /.sec-title__title -->
                             </div><!-- /.sec-title -->
-                            <p class="about-three__right__text">Finding an IT and digital marketing company you can
-                                trust is not easy. At CyberX, our elite quality yet affordable solutions are designed to
-                                help businesses like yours to expand and crystal in the digital world.
-
-                                With over decades of experience serving small, medium and enterprise clients across
-                                industries, we have the expertise and proven track record you seek in a tech service
-                                provider. Our digital marketing specialists bring together their expertise in our IT and
-                                digital marketing agency to improve your brand’s online visibility and generate more
-                                sales. </p><!-- /.about-three__right__text -->
+                            <p class="about-three__right__text">
+                            Welcome to Crystal Techify - where we believe growth and results are everything. As an IT and digital marketing agency, we help businesses strategize, build, and improve their marketing game ultimately resulting in ROI boost. Our vision is building better business through technology.
+                             </p>
+                             <p class="about-three__right__text">
+                             We connect brands better to their audience with our custom marketing services and solutions like SEO, link building, PPC, social media marketing, web development, content writing, graphic design, and the list goes on. We're Here to Help – Contact Us Now!
+                             </p>
+                             <!-- /.about-three__right__text -->
                             <div class="tabs-box">
                                 <div class="about-three__right__tab">
                                     <div class="about-three__right__tab__link tab-link">
@@ -141,11 +139,9 @@
 
                                 <div class="tabs-content">
                                     <div class="item fadeInUp animated tab active-tab" id="research">
-                                        <p class="about-three__right__text">At CyberX, we aim to be leading partners for
-                                            <b class="text-bold">innovative tech solutions</b>. We design customized
-                                            solutions for each client’s specific needs and challenges. Our mission is to
-                                            give businesses the power to embrace digital transformation and get ready
-                                            for what's ahead. </p><!-- /.about-three__right__text -->
+                                        <p class="about-three__right__text">
+                                            At Crystal Techify, our mission is to supercharge your business with powerful IT and digital marketing solutions. We help you grow your brand, boost your ROI, and connect better with your audience through customized strategies. Let's achieve great results together!
+                                        </p><!-- /.about-three__right__text -->
                                         <div class="about-three__features">
                                             <div class="about-three__features__item">
 
@@ -156,11 +152,9 @@
                                         </div><!-- /.about-three__features__item -->
                                     </div><!-- /.item -->
                                     <div class="item fadeInUp animated tab" id="marketing">
-                                        <p class="about-three__right__text">Our vision is a world where technology moves
-                                            progress forward, not holds it back. We stay up-to-date about the latest
-                                            technologies to help our clients for long-lasting success.We offer secure,
-                                            <b class="text-bold">modern tech solutions</b> that make businesses of all
-                                            sizes more efficient and help them grow.</p>
+                                        <p class="about-three__right__text">
+                                        Our vision is to transform businesses with innovative technology and digital marketing. We aim to create strong connections between brands and their audiences, driving success and growth. Our growth is our growth. Partner with us and experience the Crystal Techify difference today!
+                                        </p>
                                         <!-- /.about-three__right__text -->
                                         <div class="about-three__features">
 
@@ -349,21 +343,15 @@
                             <div class="benefit-two__top">
                                 <div class="sec-title text-start wow fadeInUp" data-wow-duration='300ms'>
                                     <h6 class="sec-title__tagline">Our Benefits</h6><!-- /.sec-title__tagline -->
-                                    <h2 class="sec-title__title">Partner with Us Today to Boost Your Business by
-                                        outsourcing IT Services!</h2><!-- /.sec-title__title -->
+                                    <h2 class="sec-title__title">Partner with the Best - Your Success, Our Priority</h2><!-- /.sec-title__title -->
                                 </div><!-- /.sec-title -->
                                 <p class="benefit-two__text">
-                                    To stay competitive and avail in this digital world, leveraging the right technology
-                                    is no longer optional for ambitious businesses - it is a must choice. Partner with
-                                    <b class="text-bold">CyberX - Trusted IT agency</b> to upscale your business sales.
-                                    Our expert IT service providers offer tech services for small and large businesses.
-                                    <br>
-                                    Let us optimize your online visibility to stay ahead of your competitors in the
-                                    market. With this approach, you can win more clients and increase ROI. Contact us
-                                    now or request a free consultation to speed up your success journey with the <b
-                                        class="text-bold">Best Tech solution provider in USA!</b>
-                                </p><!-- /.benefit-two__text -->
-
+                                When you partner with Crystal Techify, you get the best and professional IT and digital marketing services and solutions customized specifically according to your business. We focus on driving your growth and boosting your ROI with powerful strategies. 
+                                </p>
+                                <p class="benefit-two__text">
+                                Our custom services include SEO, PPC, web development, and social media marketing, all designed to connect you better with your audience. Don’t settle for average—partner with the best and dominate your market. Ready to transform your business? Contact us now and let's achieve extraordinary results together. Your success story starts with Crystal Techify! 
+                                </p>
+                                <!-- /.benefit-two__text -->
                                 <div class="benefit-two__instagram">
                                     <div class="benefit-two__man">
                                         <img src="assets/images/instagram/1.jpg" alt>

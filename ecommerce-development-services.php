@@ -24,7 +24,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="author" content="layerdrops">
     <meta name="description"
-        content="Looking for ecommerce development services? CyberX offers ecommerce web design services for WooCommerce, Shopify, Magento, OpenCart and Wix.">
+        content="Looking for ecommerce development services? Crystal Techify offers ecommerce web design services for WooCommerce, Shopify, Magento, OpenCart and Wix.">
 
     <!-- ======== Page title ============ -->
     <title>Ecommerce Development Company | Ecommerce Services</title>
@@ -166,7 +166,7 @@
                                 <p class="service-details__text wow fadeInUp" data-wow-delay='350ms'>Many businesses
                                     struggle to effectively market themselves on social media platforms. With so much
                                     noise and competition, it can be challenging to stand out and reach potential
-                                    customers. At CyberX, we provide <b class="text-bold">custom ecommerce development
+                                    customers. At Crystal Techify, we provide <b class="text-bold">custom ecommerce development
                                         services</b> to help businesses like yours cut through the clutter.
                                     <br>
                                     We take the time to understand your <b class="text-bold">ecommerce web design</b>,

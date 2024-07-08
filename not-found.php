@@ -24,9 +24,9 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="author" content="layerdrops">
     <meta name="description"
-        content="CyberX, a leading IT company in USA, is revolutionizing the tech industry with innovative IT solutions & services. Learn more about our mission and vision.">
+        content="Crystal Techify, a leading IT company in USA, is revolutionizing the tech industry with innovative IT solutions & services. Learn more about our mission and vision.">
     <!-- ======== Page title ============ -->
-    <title>IT Company in USA | About Us | CyberX</title>
+    <title>IT Company in USA | About Us | Crystal Techify</title>
 
     <!-- ========== Favicon Icon ========== -->
     <link rel="shortcut icon" href="assets/images/favicon.png" type="image/x-icon">

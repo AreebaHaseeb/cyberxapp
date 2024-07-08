@@ -24,10 +24,10 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="author" content="layerdrops">
     <meta name="description"
-        content="Get best IT services from CyberX! Our outsourced IT services include digital marketing, SEO, web development, and more for efficiency and innovation.">
+        content="Get best IT services from Crystal Techify! Our outsourced IT services include digital marketing, SEO, web development, and more for efficiency and innovation.">
 
     <!-- ======== Page title ============ -->
-    <title>Best IT Company in USA - IT services near me | CyberX</title>
+    <title>Best IT Company in USA - IT services near me | Crystal Techify</title>
     <!-- ========== Favicon Icon ========== -->
     <link rel="shortcut icon" href="assets/images/favicon.png" type="image/x-icon">
     <link rel="apple-touch-icon" sizes="180x180" href="assets/images/favicon.png">

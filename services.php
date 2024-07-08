@@ -24,10 +24,10 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="author" content="layerdrops">
     <meta name="description"
-        content="CyberX is a leading software company in USA providing IT Services: Mobile/Web development, SEO, Digital Marketing, SalesForce, ERP, CRM, Staff Augmentation, etc">
+        content="Crystal Techify is a leading software company in USA providing IT Services: Mobile/Web development, SEO, Digital Marketing, SalesForce, ERP, CRM, Staff Augmentation, etc">
 
     <!-- ======== Page title ============ -->
-    <title>Services - CyberX</title>
+    <title>Services - Crystal Techify</title>
 
     <!-- ========== Favicon Icon ========== -->
     <link rel="canonical" href="https://cyberxapp.com/services" />
@@ -231,7 +231,7 @@
                                 <h2 class="service-card-two__title"> <a
                                         href="video-editing-and-animation-services.php">Video Editing and Animation</a>
                                 </h2><!-- /.service-card-two__title -->
-                                <p class="service-card-two__text">At CyberX, we have professionals that offer quality
+                                <p class="service-card-two__text">At Crystal Techify, we have professionals that offer quality
                                     <b>video editing and animation services</b> to make attractive marketing content for
                                     brands. They help you explain your products and services, tell your story, and more
                                     through editing and design that engages audiences and drives conversions.</p>
@@ -251,7 +251,7 @@
                                 </div><!-- /.service-card-two__price -->
                                 <h2 class="service-card-two__title"> <a href="content-writing-services.php">Content
                                         Writing</a> </h2><!-- /.service-card-two__title -->
-                                <p class="service-card-two__text">CyberX offers <b>best content writing services</b> for
+                                <p class="service-card-two__text">Crystal Techify offers <b>best content writing services</b> for
                                     businesses that need high-quality, SEO optimized web content. We offer blog posts,
                                     social media copy, landing pages, and even <b>copywriting services</b> to enhance
                                     your online presence and reach your target customers.</p>
@@ -271,7 +271,7 @@
                                 </div><!-- /.service-card-two__price -->
                                 <h2 class="service-card-two__title"> <a href="graphic-designing-services.php">Graphic
                                         Designing</a> </h2><!-- /.service-card-two__title -->
-                                <p class="service-card-two__text">CyberX provides professional <b>branding and graphic
+                                <p class="service-card-two__text">Crystal Techify provides professional <b>branding and graphic
                                         design services</b> for companies seeking to improve their visual identity and
                                     marketing. Our designers use custom softwares to design logos, ads, product images,
                                     websites, mobile apps and other digital assets.</p><!-- /.service-card-two__text -->
