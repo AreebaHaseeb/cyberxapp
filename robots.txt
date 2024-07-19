@@ -14,4 +14,4 @@ Disallow: /login
 #Block Chatgpt
 User-agent: CCBot
 Disallow: /
-Sitemap: https://cyberxapp.com/sitemap.xml
+Sitemap: https://crystaltechify.com/sitemap.xml

@@ -82,6 +82,7 @@
     <!-- Preloader Start-->
     <div class="preloader">
     </div>
+    <div id="dot"></div>
     <!-- Preloader End-->
 
     <div class="page-wrapper">

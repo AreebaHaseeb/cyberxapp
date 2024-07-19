@@ -22,14 +22,14 @@
                             <div class="mega-menu-wrap container-fluid">
                                 <div class="row">
                                     <!-- First column of links -->
-                                    <div class="col">
+                                    <div class="col-lg-2 col-xl-2 col-md-12 col-sm-12">
                                         <h4 class="mega-heading">
                                             <ul class="">
                                             <li class="d-flex align-items-center">
                                              <a href="digital-marketing.php">Digital Marketing</a></li>
                                         </ul>
                                     </h4>
-                                        <ul class="mega-list">
+                                        <ul class="mega-list" style="list-style-type: disc !important;">
                                             <li class="d-flex align-items-center">
                                                 <a
                                                     href="search-engine-optimization.php">Search Engine Optimization</a></li>
@@ -41,11 +41,12 @@
                                         </ul>
                                     </div>
                                     <!-- Second column of links -->
-                                    <div class="col">
+                                    <div class="col-lg-2 col-xl-2 col-md-12 col-sm-12">
                                         <h4 class="mega-heading">
                                             <ul class="">
                                             <li class="d-flex align-items-center">
-                                             <a href="web-development.php">Web Development</a></li>
+                                             <a href="web-development.php">Web Development</a>
+                                            </li>
                                         </ul>
                                     </h4>
                                         <ul class="mega-list">
@@ -54,26 +55,27 @@
                                             <li class="d-flex align-items-center"><a
                                                     href="wordpress-website.php">Wordpress Website</a></li>
                                             <li class="d-flex align-items-center"><a
-                                                    href="react-website-services.php">React Website</a></li>
+                                                    href="react-website.php">React Website</a></li>
                                         </ul>
                                     </div>
                                     <!-- Third column of links -->
-                                    <div class="col">
+                                    <div class="col-lg-2 col-xl-2 col-md-12 col-sm-12">
                                         <h4 class="mega-heading">
                                             <ul class="">
                                             <li class="d-flex align-items-center">
-                                             <a href="content-writing-services.php">Content Writing</a></li>
+                                             <a href="content-writing.php">Content Writing</a></li>
                                         </ul>
                                     </h4>
                                         <ul class="mega-list">
                                             <li class="d-flex align-items-center"><a
-                                                    href="copy-writing-services.php">Copy Writing</a></li>
+                                                    href="copy-writing.php">Copy Writing</a></li>
                                             <li class="d-flex align-items-center"><a
-                                                    href="website-content-services.php">Website Content</a></li>
+                                                    href="website-content.php">Website Content</a></li>
                                         </ul>
                                     </div>
+
                                     <!-- Fourth column of links -->
-                                    <div class="col">
+                                    <div class="col-lg-2 col-xl-2 col-md-12 col-sm-12">
                                         <h4 class="mega-heading">
                                             <ul class="">
                                             <li class="d-flex align-items-center">
@@ -87,22 +89,21 @@
                                                     href="social-media-ads.php">Social Media Ads</a></li>
                                         </ul>
                                     </div>
-                                    <div class="col">
+                                    <div class="col-lg-2 col-xl-2 col-md-12 col-sm-12">
                                         <h4 class="mega-heading">
                                             <ul class="">
                                             <li class="d-flex align-items-center">
                                              <a href="link-building-services.php">Link Building</a></li>
                                         </ul>
+                                      
                                     </h4>
                                         <ul class="mega-list">
                                             <li class="d-flex align-items-center"><a
-                                                    href="web-development-services.php">Google Ads</a></li>
-                                            <li class="d-flex align-items-center"><a
-                                                    href="social-media-ads.php">Social Media Ads</a></li>
+                                                    href="premium-guest-posting.php">Premium Guest Posting</a></li>
                                         </ul>
                                     </div>
 
-                                    <div class="col">
+                                    <div class="col-lg-2 col-xl-2 col-md-12 col-sm-12">
                                         <h4 class="mega-heading">
                                             <ul class="">
                                             <li class="d-flex align-items-center">
@@ -121,6 +122,36 @@
                                         </ul>
                                     </div>
 
+                                </div>
+                                <div class="row">
+                                    <!-- First column of links -->
+                                    <div class="col-lg-2 col-xl-2 col-md-12 col-sm-12">
+                                        <h4 class="mega-heading">
+                                            <ul class="">
+                                            <li class="d-flex align-items-center">
+                                             <a href="graphic-design-branding.php">Graphic Design & Branding</a></li>
+                                        </ul>
+                                    </h4>
+                                        <ul class="mega-list" style="list-style-type: disc !important;">
+                                            <li class="d-flex align-items-center">
+                                                <a
+                                                    href="logo-design.php">Logo Design</a></li>
+                                        </ul>
+                                    </div>
+                                    <!-- Second column of links -->
+                                    <div class="col-lg-2 col-xl-2 col-md-12 col-sm-12">
+                                        <h4 class="mega-heading">
+                                            <ul class="">
+                                            <li class="d-flex align-items-center">
+                                             <a href="video-editing.php">Video Editing & Animation</a>
+                                            </li>
+                                        </ul>
+                                    </h4>
+                                        <ul class="mega-list">
+                                            <li class="d-flex align-items-center"><a
+                                                    href="youtube-video-editing.php">Youtube Video Editing</a></li>        
+                                        </ul>
+                                    </div>
                                 </div>
                             </div>
                         </div>

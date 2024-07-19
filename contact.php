@@ -191,11 +191,10 @@
                                 <div class="form-one__group">
                                     <div class="form-one__control">
                                         <input type="text" name="name" placeholder="Your Name" required="">
-
                                     </div><!-- /.form-one__control form-one__control__full -->
                                     <div class="form-one__control">
                                         <input type="email" name="email" placeholder="Email Address" required="">
-
+                                        
                                     </div><!-- /.form-one__control form-one__control__full -->
                                     <div class="form-one__control">
                                         <input type="tel" name="phone" placeholder="Phone" required="">
@@ -207,7 +206,6 @@
                                     </div><!-- /.form-one__control form-one__control__full -->
                                     <div class="form-one__control form-one__control--full">
                                         <textarea name="message" placeholder="Write a Message" required=""></textarea>
-
                                         <!-- /# -->
                                     </div><!-- /.form-one__control -->
                                     <div class="form-one__control form-one__control--full">
@@ -227,7 +225,10 @@
         <div class="contact-map   wow fadeInUp" data-wow-duration="1500ms">
             <div class="container-fluid">
                 <div class="google-map google-map__contact">
-                    <!-- <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d6801.303762416723!2d74.34170545498655!3d31.53371986555269!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e0!3m2!1sen!2s!4v1706779219393!5m2!1sen!2s" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe> -->
+                <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d97656.76526921504!2d-83.22118058259105!3d40.102753405158694!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x88389322268f9c27%3A0x56dea90f7432982b!2sDublin%2C%20OH%2043016%2C%20USA!5e0!3m2!1sen!2s!4v1720604141476!5m2!1sen!2s" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"
+                      allowfullscreen=""
+                      loading="lazy"
+                    ></iframe>
                 </div>
             </div><!-- /.container-fluid -->
         </div>

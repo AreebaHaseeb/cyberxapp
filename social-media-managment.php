@@ -83,6 +83,7 @@
 <body class="custom-cursor">
 <div class="preloader">
 </div>
+<div id="dot"></div>
     <div class="page-wrapper">
         <!-- header-start -->
         <?php include 'includes/header.php'; ?>
@@ -322,62 +323,74 @@
          
 <!-- conversion-section-end -->
 
-<!-- services-section-start -->
-<section class="service-page service-page--home mb-60">
+<!-- services section start -->
+<section class="service-page service-page--home">
+            <div class="service-page__bg" style="background-image: url(assets/images/shapes/service-bg-1-1.jpg);"></div>
+            <!-- /.service-page__bg -->
             <div class="container">
                 <div class="service-page__top">
                     <div class="row align-items-end">
-                        <div class="col-md-12">
-                        <div class="services-detail-main-heading">
-                        <h2>Crystal Techify’s <span class="color-text">Digital Marketing</span>  Services</h2>
-                        <p>Skyrocket Your Brand & Dominate Your Industry with Crystal Techify's Expert Services  </p>
-                        
-                    </div>
+                        <div class="col-md-6 col-lg-5">
+                            <div class="sec-title text-start wow fadeInUp" data-wow-duration='1500ms'
+                                data-wow-delay='800ms'>
+                                <h6 class="sec-title__tagline">Our Service</h6><!-- /.sec-title__tagline -->
+                                <h2 class="sec-title__title">Professional IT & Digital Marketing Services <span class="color-text">for Your
+                                Success</span> </h2><!-- /.sec-title__title -->
+                            </div><!-- /.sec-title -->
+                        </div><!-- /.col-md-6 -->
+                        <div class="col-md-6 col-lg-6 offset-lg-1">
+                            <p class="service-page__top__text wow fadeInUp" data-wow-duration='1500ms'
+                                data-wow-delay='200ms'>
+                                As a <b class="text-bold">top IT company in USA </b>, we provide IT and Digital
+                                Marketing solutions to help you get the technology edge required for business growth in
+                                the digital age. We offer high-quality services to ensure your business remains updated
+                                and secure at all times. Our <b class="text-bold">IT consulting </b> and <b
+                                    class="text-bold">marketing services </b> include.
+                            </p><!-- /.service-page__top__text -->
                         </div><!-- /.col-md-6 -->
                     </div><!-- /.row -->
                 </div><!-- /.service-page__top -->
                 <div class="row gutter-y-30">
                     <div class="col-md-6 col-lg-4">
-                        <div class="service-card-two wow  fadeInUp"  data-wow-delay="000ms">
+                        <div class="service-card-two wow  fadeInUp" data-wow-duration="1500ms" data-wow-delay="000ms">
                             <div class="service-card-two__content">
                                 <div class="service-card-two__icon">
-                                <img src="assets/images/icon/digital.png" alt="">
+                                    <img src="assets/images/icon/seo.png" alt>
                                 </div><!-- /.service-card-two__price -->
-                                <h3 class="service-card-two__title"> <a href="seo-services.php">Digital Marketing</a> </h3><!-- /.service-card-two__title -->
+                                <h3 class="service-card-two__title"> <a href="digital-marketing.php">
+                                Digital Marketing</a> </h3><!-- /.service-card-two__title -->
                                 <p class="service-card-two__text">
-                                Want to promote your brand online for fast leads and conversions? Our digital marketing services include SEO, SEM, social media management, PPC, and content creation, ensuring your brand stands out and connects with your audience efficiently.
+                                Search Engine Optimization involves optimizing a website's content, structure, and backlinks to improve its visibility and ranking on search engine results pages (SERPs), which ultimately drives organic traffic and enhances the online presence.
                                 </p><!-- /.service-card-two__text -->
-                                <a href="services.php" class=""></a><!-- /.blog-card__link -->
+                               
                             </div><!-- /.service-card-two__content -->
 
                         </div><!-- /.service-card-two -->
                     </div><!-- /.col-md-6 col-lg-4 -->
                     <div class="col-md-6 col-lg-4">
-                        <div class="service-card-two "  data-wow-delay="300ms">
+                        <div class="service-card-two wow fadeInUp" data-wow-duration="1500ms" data-wow-delay="300ms">
                             <div class="service-card-two__content">
                                 <div class="service-card-two__icon">
                                     <img src="assets/images/icon/cust-dev.png" alt>
                                 </div><!-- /.service-card-two__price -->
                                 <h3 class="service-card-two__title"> <a
-                                        href="custom-software-development-services.php">Custom Software Development</a>
+                                        href="web-development.php">Web Development</a>
                                 </h3><!-- /.service-card-two__title -->
                                 <p class="service-card-two__text">
                                 Custom software development is all about designing, creating, deploying, and maintaining software to meet the custom requirements of individual users, businesses, or companies. Join hands with Crystal Techify for your custom software projects! 
                                 </p><!-- /.service-card-two__text -->
-                                <a href="custom-software-development-services.php" class=""></a>
                                 <!-- /.blog-card__link -->
                             </div><!-- /.service-card-two__content -->
 
                         </div><!-- /.service-card-two -->
                     </div><!-- /.col-md-6 col-lg-4 -->
                     <div class="col-md-6 col-lg-4">
-                        <div class="service-card-two " >
+                        <div class="service-card-two wow fadeInUp" data-wow-duration="1500ms" data-wow-delay="500ms">
                             <div class="service-card-two__content">
                                 <div class="service-card-two__icon">
                                     <img src="assets/images/icon/web-dev.png" alt>
                                 </div><!-- /.service-card-two__price -->
-                                <h3 class="service-card-two__title"> <a href="web-development-services.php">Website
-                                        Development</a> </h3><!-- /.service-card-two__title -->
+                                <h3 class="service-card-two__title"> <a href="content-writing.php">Content Writing</a> </h3><!-- /.service-card-two__title -->
                                 <p class="service-card-two__text">
                                 At Crystal Techify, our web developers create custom, responsive and fully functional websites with latest technologies, including WordPress, React, and other modern frameworks for brands & businesses out there that keeps the audience engaged.
                                 </p>
@@ -387,13 +400,13 @@
                         </div><!-- /.service-card-two -->
                     </div>
                     <div class="col-md-6 col-lg-4">
-                        <div class="service-card-two " >
-                            <div class="service-card-two__content text-lg-start">
+                        <div class="service-card-two wow fadeInUp" data-wow-duration="1500ms" data-wow-delay="500ms">
+                            <div class="service-card-two__content">
                                 <div class="service-card-two__icon">
                                     <img src="assets/images/icon/ecom.png" alt>
                                 </div><!-- /.service-card-two__price -->
                                 <h3 class="service-card-two__title"> <a
-                                        href="ecommerce-development-services.php">Ecommerce Development</a> </h3>
+                                        href="ppc-services.php">Pay Per Click (PPC)</a> </h3>
                                 <!-- /.service-card-two__title -->
                                 <p class="service-card-two__text">
                                 Ecommerce stores are booming, generating global revenue for businesses. Get Crystal Techify's professional experts help to create your ecommerce store that drives conversions for your business. Get noticed and succeed in online business today.
@@ -404,45 +417,45 @@
                         </div><!-- /.service-card-two -->
                     </div>
                     <div class="col-md-6 col-lg-4">
-                        <div class="service-card-two " >
+                        <div class="service-card-two wow fadeInUp" data-wow-duration="1500ms" data-wow-delay="500ms">
                             <div class="service-card-two__content">
                                 <div class="service-card-two__icon">
-                                    <img src="assets/images/icon/seo.png" alt>
+                                    <img src="assets/images/icon/digital.png" alt>
                                 </div><!-- /.service-card-two__price -->
-                                <h3 class="service-card-two__title"> <a href="digital-marketing-services.php">SEO</a> </h3><!-- /.service-card-two__title -->
+                                <h3 class="service-card-two__title"> <a href="link-building-services.php">
+                                Link Building</a> </h3><!-- /.service-card-two__title -->
                                 <p class="service-card-two__text">
-                                Search Engine Optimization involves optimizing a website's content, structure, and backlinks to improve its visibility and ranking on search engine results pages (SERPs), which ultimately drives organic traffic and enhances the online presence.
+                                Want to promote your brand online for fast leads and conversions? Our digital marketing services include SEO, SEM, social media management, PPC, and content creation, ensuring your brand stands out and connects with your audience efficiently.
                                 </p><!-- /.service-card-two__text -->
                             </div><!-- /.service-card-two__content -->
 
                         </div><!-- /.service-card-two -->
                     </div>
                     <div class="col-md-6 col-lg-4">
-                        <div class="service-card-two " >
+                        <div class="service-card-two wow fadeInUp" data-wow-duration="1500ms" data-wow-delay="500ms">
                             <div class="service-card-two__content">
                                 <div class="service-card-two__icon">
                                     <img src="assets/images/icon/graphic.png" alt>
 
                                 </div><!-- /.service-card-two__price -->
-                                <h3 class="service-card-two__title"> <a href="graphic-designing-services.php">Graphic
-                                        Designing</a> </h3><!-- /.service-card-two__title -->
+                                <h3 class="service-card-two__title"> <a href="graphic-design-branding.php">Graphic Design & Branding</a> </h3><!-- /.service-card-two__title -->
                                 <p class="service-card-two__text">
                                 Graphic designing covers creating visual content like logos, branding materials, ads, web graphics, and many more according to the principles of design, typography, color theory, and digital tools to communicate your brand’s messages effectively.
                                 </p><!-- /.service-card-two__text -->
-                            </div><!-- /.service-card-two__content -->
-
+                            </div>
                         </div>
-                        <!-- /.service-card-two -->
+                     
                     </div>
 
                     <div class="d-flex justify-content-center">
-                    <a href="services.php" class="cyber-btn cyber-btn-base" data-wow-duration='1500ms' data-wow-delay='200ms'>Discover More</a>
+                        <a href="services.php" class="cyber-btn cyber-btn-base"
+                            data-wow-duration='1500ms' data-wow-delay='200ms'>Discover More</a>
                     </div>
                 </div>
-                <!-- /.row -->
-            </div><!-- /.container -->
-        </section><!-- /.service-page -->
-
+             
+            </div>
+        </section>
+<!-- services section end -->
  <!-- engage section -->
 <section class="engage-section">
 <div class="container">

@@ -81,8 +81,9 @@
 
     <!-- Preloader Start-->
     <div class="preloader">
-        <!-- <div class="preloader__image" style="background-image: url(assets/images/loader.png);"></div> -->
+       
     </div>
+    <div id="dot"></div>
     <!-- Preloader End-->
 
     <div class="page-wrapper">

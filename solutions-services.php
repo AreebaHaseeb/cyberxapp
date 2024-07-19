@@ -80,9 +80,8 @@
 
 <body class="custom-cursor">
 
-    <!-- <div class="preloader"></div> -->
-
-
+    <div class="preloader"></div>
+    <div id="dot"></div>
     <div class="page-wrapper">
         <!-- header-start -->
         <?php include 'includes/header.php'; ?>
@@ -136,7 +135,7 @@
                         <p>
                         Contact us today to know how we can help your business and bring the ROI you have been dreaming for a long time!  
                         </p>
-                        
+
                     </div>  
                 </div>
             </div>
@@ -364,6 +363,7 @@
                                 Custom software development is all about designing, creating, deploying, and maintaining software to meet the custom requirements of individual users, businesses, or companies. Join hands with Crystal Techify for your custom software projects! 
                                 </p><!-- /.service-card-two__text -->
                                 <a href="custom-software-development-services.php" class=""></a>
+                               
                                 <!-- /.blog-card__link -->
                             </div><!-- /.service-card-two__content -->
 
